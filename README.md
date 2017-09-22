@@ -2,6 +2,7 @@ HEGELIAN
 =====
 
 "Helping Everyone Graph Emitted Light from Interactive Artificial Nebulae"
+
 Making the abstract concrete
 
 3D real-time astrophysics simulation visualisation
