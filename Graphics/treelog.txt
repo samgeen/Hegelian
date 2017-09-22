@@ -1,0 +1,2183 @@
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00001
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00002
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00003
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00004
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00005
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00006
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00007
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00008
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00009
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00010
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00011
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00012
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00013
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00014
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00015
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00016
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00017
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00018
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00019
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00020
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00021
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00022
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00023
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00024
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00025
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00026
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00027
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00028
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00029
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00030
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00031
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00032
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00033
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00034
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00035
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00036
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00037
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00038
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00039
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00040
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00041
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00042
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00043
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00044
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00045
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00046
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00047
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00048
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00049
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00050
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00051
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00052
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00053
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00054
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00055
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00056
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00057
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00058
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00059
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00060
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00061
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00062
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00063
+Reading particles : /home/samgeen/winhome/Data/Aquarius/output/output_00193/part_00193.out00064
+Reading files time = 1.4 s
+Loading this number of points:  4168119
+[      0      10      20 ..., 4168080 4168090 4168100]
+(20000, 3)
+(416811, 3)
+ Branch at level 0 ...
+  Branch at level 1 ...
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2384
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 1257
+     Leaf node at level  4 containing: PointCloud size: 543
+     Leaf node at level  4 containing: PointCloud size: 1261
+     Leaf node at level  4 containing: PointCloud size: 1870
+     Leaf node at level  4 containing: PointCloud size: 2452
+     Leaf node at level  4 containing: PointCloud size: 4868
+     Leaf node at level  4 containing: PointCloud size: 806
+     Leaf node at level  4 containing: PointCloud size: 881
+    Leaf node at level  3 containing: PointCloud size: 6350
+    Leaf node at level  3 containing: PointCloud size: 2268
+    Leaf node at level  3 containing: PointCloud size: 7091
+    Leaf node at level  3 containing: PointCloud size: 6157
+    Leaf node at level  3 containing: PointCloud size: 3094
+    Leaf node at level  3 containing: PointCloud size: 6986
+   Branch at level 2 ...
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 6039
+     Leaf node at level  4 containing: PointCloud size: 1182
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 3646
+      Leaf node at level  5 containing: PointCloud size: 285
+      Leaf node at level  5 containing: PointCloud size: 206
+      Leaf node at level  5 containing: PointCloud size: 243
+      Leaf node at level  5 containing: PointCloud size: 9365
+      Leaf node at level  5 containing: PointCloud size: 1762
+      Leaf node at level  5 containing: PointCloud size: 207
+      Leaf node at level  5 containing: PointCloud size: 165
+     Leaf node at level  4 containing: PointCloud size: 2452
+     Leaf node at level  4 containing: PointCloud size: 934
+     Leaf node at level  4 containing: PointCloud size: 218
+     Leaf node at level  4 containing: PointCloud size: 1152
+     Leaf node at level  4 containing: PointCloud size: 525
+    Leaf node at level  3 containing: PointCloud size: 2894
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 124
+     Leaf node at level  4 containing: PointCloud size: 4102
+     Leaf node at level  4 containing: PointCloud size: 79
+     Leaf node at level  4 containing: PointCloud size: 2596
+     Leaf node at level  4 containing: PointCloud size: 372
+     Leaf node at level  4 containing: PointCloud size: 2657
+     Leaf node at level  4 containing: PointCloud size: 406
+     Leaf node at level  4 containing: PointCloud size: 209
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 755
+     Leaf node at level  4 containing: PointCloud size: 412
+     Leaf node at level  4 containing: PointCloud size: 932
+     Leaf node at level  4 containing: PointCloud size: 488
+     Leaf node at level  4 containing: PointCloud size: 6288
+     Leaf node at level  4 containing: PointCloud size: 1634
+     Leaf node at level  4 containing: PointCloud size: 881
+     Leaf node at level  4 containing: PointCloud size: 323
+    Leaf node at level  3 containing: PointCloud size: 2888
+    Leaf node at level  3 containing: PointCloud size: 1320
+    Leaf node at level  3 containing: PointCloud size: 2804
+    Leaf node at level  3 containing: PointCloud size: 6312
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2205
+    Leaf node at level  3 containing: PointCloud size: 2527
+    Leaf node at level  3 containing: PointCloud size: 1378
+    Leaf node at level  3 containing: PointCloud size: 866
+    Leaf node at level  3 containing: PointCloud size: 2062
+    Leaf node at level  3 containing: PointCloud size: 1745
+    Leaf node at level  3 containing: PointCloud size: 1436
+    Leaf node at level  3 containing: PointCloud size: 1596
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 3549
+    Leaf node at level  3 containing: PointCloud size: 5181
+    Leaf node at level  3 containing: PointCloud size: 1481
+    Leaf node at level  3 containing: PointCloud size: 2372
+    Leaf node at level  3 containing: PointCloud size: 5975
+    Leaf node at level  3 containing: PointCloud size: 4939
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 212
+     Leaf node at level  4 containing: PointCloud size: 1020
+     Leaf node at level  4 containing: PointCloud size: 214
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 62
+      Leaf node at level  5 containing: PointCloud size: 155
+      Leaf node at level  5 containing: PointCloud size: 69
+      Leaf node at level  5 containing: PointCloud size: 303
+      Leaf node at level  5 containing: PointCloud size: 185
+      Leaf node at level  5 containing: PointCloud size: 4389
+      Leaf node at level  5 containing: PointCloud size: 199
+      Leaf node at level  5 containing: PointCloud size: 9637
+     Leaf node at level  4 containing: PointCloud size: 130
+     Leaf node at level  4 containing: PointCloud size: 323
+     Leaf node at level  4 containing: PointCloud size: 979
+     Leaf node at level  4 containing: PointCloud size: 1390
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 885
+     Leaf node at level  4 containing: PointCloud size: 3108
+     Leaf node at level  4 containing: PointCloud size: 6470
+     Leaf node at level  4 containing: PointCloud size: 2100
+     Leaf node at level  4 containing: PointCloud size: 1678
+     Leaf node at level  4 containing: PointCloud size: 382
+     Leaf node at level  4 containing: PointCloud size: 698
+     Leaf node at level  4 containing: PointCloud size: 398
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2844
+    Leaf node at level  3 containing: PointCloud size: 3306
+    Leaf node at level  3 containing: PointCloud size: 2178
+    Leaf node at level  3 containing: PointCloud size: 2225
+    Leaf node at level  3 containing: PointCloud size: 2098
+    Leaf node at level  3 containing: PointCloud size: 625
+    Leaf node at level  3 containing: PointCloud size: 5778
+    Leaf node at level  3 containing: PointCloud size: 3929
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 5548
+    Leaf node at level  3 containing: PointCloud size: 2921
+    Leaf node at level  3 containing: PointCloud size: 2541
+    Leaf node at level  3 containing: PointCloud size: 3026
+    Leaf node at level  3 containing: PointCloud size: 3541
+    Leaf node at level  3 containing: PointCloud size: 3756
+    Leaf node at level  3 containing: PointCloud size: 6002
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 184
+     Leaf node at level  4 containing: PointCloud size: 382
+     Leaf node at level  4 containing: PointCloud size: 2384
+     Leaf node at level  4 containing: PointCloud size: 645
+     Leaf node at level  4 containing: PointCloud size: 156
+     Leaf node at level  4 containing: PointCloud size: 187
+     Leaf node at level  4 containing: PointCloud size: 8522
+     Leaf node at level  4 containing: PointCloud size: 2064
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1882
+    Leaf node at level  3 containing: PointCloud size: 2735
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 364
+     Leaf node at level  4 containing: PointCloud size: 168
+     Leaf node at level  4 containing: PointCloud size: 556
+     Leaf node at level  4 containing: PointCloud size: 119
+     Leaf node at level  4 containing: PointCloud size: 1186
+     Leaf node at level  4 containing: PointCloud size: 370
+     Leaf node at level  4 containing: PointCloud size: 4158
+     Leaf node at level  4 containing: PointCloud size: 3883
+    Leaf node at level  3 containing: PointCloud size: 4441
+    Leaf node at level  3 containing: PointCloud size: 2875
+    Leaf node at level  3 containing: PointCloud size: 1287
+    Leaf node at level  3 containing: PointCloud size: 9046
+    Leaf node at level  3 containing: PointCloud size: 2700
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2658
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 799
+     Leaf node at level  4 containing: PointCloud size: 823
+     Leaf node at level  4 containing: PointCloud size: 1187
+     Leaf node at level  4 containing: PointCloud size: 2127
+     Leaf node at level  4 containing: PointCloud size: 560
+     Leaf node at level  4 containing: PointCloud size: 211
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 58
+      Leaf node at level  5 containing: PointCloud size: 117
+      Leaf node at level  5 containing: PointCloud size: 5587
+      Leaf node at level  5 containing: PointCloud size: 1943
+      Leaf node at level  5 containing: PointCloud size: 120
+      Leaf node at level  5 containing: PointCloud size: 94
+      Leaf node at level  5 containing: PointCloud size: 3307
+      Leaf node at level  5 containing: PointCloud size: 947
+     Leaf node at level  4 containing: PointCloud size: 803
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 151
+     Leaf node at level  4 containing: PointCloud size: 516
+     Leaf node at level  4 containing: PointCloud size: 1029
+     Leaf node at level  4 containing: PointCloud size: 1806
+     Leaf node at level  4 containing: PointCloud size: 2548
+     Leaf node at level  4 containing: PointCloud size: 2317
+     Leaf node at level  4 containing: PointCloud size: 299
+     Leaf node at level  4 containing: PointCloud size: 1766
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 2592
+     Leaf node at level  4 containing: PointCloud size: 210
+     Leaf node at level  4 containing: PointCloud size: 276
+     Leaf node at level  4 containing: PointCloud size: 250
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 2756
+      Leaf node at level  5 containing: PointCloud size: 584
+      Leaf node at level  5 containing: PointCloud size: 314
+      Leaf node at level  5 containing: PointCloud size: 216
+      Leaf node at level  5 containing: PointCloud size: 687
+      Leaf node at level  5 containing: PointCloud size: 2697
+      Leaf node at level  5 containing: PointCloud size: 160
+      Leaf node at level  5 containing: PointCloud size: 5169
+     Leaf node at level  4 containing: PointCloud size: 6813
+     Leaf node at level  4 containing: PointCloud size: 1219
+     Leaf node at level  4 containing: PointCloud size: 5852
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 291
+     Leaf node at level  4 containing: PointCloud size: 692
+     Leaf node at level  4 containing: PointCloud size: 524
+     Leaf node at level  4 containing: PointCloud size: 3804
+     Leaf node at level  4 containing: PointCloud size: 379
+     Leaf node at level  4 containing: PointCloud size: 1998
+     Leaf node at level  4 containing: PointCloud size: 283
+     Leaf node at level  4 containing: PointCloud size: 9610
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 644
+     Leaf node at level  4 containing: PointCloud size: 542
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 95
+      Leaf node at level  5 containing: PointCloud size: 13
+      Branch at level 5 ...
+       Leaf node at level  6 containing: PointCloud size: 84
+       Leaf node at level  6 containing: PointCloud size: 123
+       Leaf node at level  6 containing: PointCloud size: 162
+       Branch at level 6 ...
+        Leaf node at level  7 containing: PointCloud size: 50
+        Leaf node at level  7 containing: PointCloud size: 29
+        Leaf node at level  7 containing: PointCloud size: 46
+        Branch at level 7 ...
+         Leaf node at level  8 containing: PointCloud size: 346
+         Leaf node at level  8 containing: PointCloud size: 1673
+         Leaf node at level  8 containing: PointCloud size: 657
+         Leaf node at level  8 containing: PointCloud size: 4461
+         Leaf node at level  8 containing: PointCloud size: 64
+         Leaf node at level  8 containing: PointCloud size: 620
+         Leaf node at level  8 containing: PointCloud size: 119
+         Leaf node at level  8 containing: PointCloud size: 6713
+        Leaf node at level  7 containing: PointCloud size: 223
+        Leaf node at level  7 containing: PointCloud size: 16
+        Leaf node at level  7 containing: PointCloud size: 75
+        Leaf node at level  7 containing: PointCloud size: 1347
+       Leaf node at level  6 containing: PointCloud size: 153
+       Leaf node at level  6 containing: PointCloud size: 43
+       Leaf node at level  6 containing: PointCloud size: 431
+       Leaf node at level  6 containing: PointCloud size: 350
+      Leaf node at level  5 containing: PointCloud size: 7109
+      Leaf node at level  5 containing: PointCloud size: 53
+      Leaf node at level  5 containing: PointCloud size: 9
+      Leaf node at level  5 containing: PointCloud size: 2429
+      Leaf node at level  5 containing: PointCloud size: 8407
+     Leaf node at level  4 containing: PointCloud size: 2337
+     Leaf node at level  4 containing: PointCloud size: 638
+     Leaf node at level  4 containing: PointCloud size: 251
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 314
+      Leaf node at level  5 containing: PointCloud size: 32
+      Leaf node at level  5 containing: PointCloud size: 1805
+      Leaf node at level  5 containing: PointCloud size: 5576
+      Leaf node at level  5 containing: PointCloud size: 1410
+      Leaf node at level  5 containing: PointCloud size: 271
+      Leaf node at level  5 containing: PointCloud size: 1996
+      Leaf node at level  5 containing: PointCloud size: 583
+     Leaf node at level  4 containing: PointCloud size: 1706
+    Leaf node at level  3 containing: PointCloud size: 6652
+    Branch at level 3 ...
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 3354
+      Branch at level 5 ...
+       Branch at level 6 ...
+        Leaf node at level  7 containing: PointCloud size: 917
+        Leaf node at level  7 containing: PointCloud size: 117
+        Leaf node at level  7 containing: PointCloud size: 504
+        Leaf node at level  7 containing: PointCloud size: 462
+        Leaf node at level  7 containing: PointCloud size: 1581
+        Leaf node at level  7 containing: PointCloud size: 1089
+        Leaf node at level  7 containing: PointCloud size: 8812
+        Leaf node at level  7 containing: PointCloud size: 1221
+       Leaf node at level  6 containing: PointCloud size: 157
+       Leaf node at level  6 containing: PointCloud size: 609
+       Leaf node at level  6 containing: PointCloud size: 1298
+       Branch at level 6 ...
+        Leaf node at level  7 containing: PointCloud size: 294
+        Leaf node at level  7 containing: PointCloud size: 2805
+        Leaf node at level  7 containing: PointCloud size: 916
+        Branch at level 7 ...
+         Leaf node at level  8 containing: PointCloud size: 741
+         Leaf node at level  8 containing: PointCloud size: 347
+         Leaf node at level  8 containing: PointCloud size: 2007
+         Leaf node at level  8 containing: PointCloud size: 131
+         Branch at level 8 ...
+          Leaf node at level  9 containing: PointCloud size: 463
+          Leaf node at level  9 containing: PointCloud size: 2629
+          Leaf node at level  9 containing: PointCloud size: 278
+          Leaf node at level  9 containing: PointCloud size: 420
+          Leaf node at level  9 containing: PointCloud size: 343
+          Leaf node at level  9 containing: PointCloud size: 6042
+          Leaf node at level  9 containing: PointCloud size: 161
+          Leaf node at level  9 containing: PointCloud size: 625
+         Leaf node at level  8 containing: PointCloud size: 4468
+         Leaf node at level  8 containing: PointCloud size: 821
+         Leaf node at level  8 containing: PointCloud size: 203
+        Leaf node at level  7 containing: PointCloud size: 291
+        Leaf node at level  7 containing: PointCloud size: 1013
+        Leaf node at level  7 containing: PointCloud size: 815
+        Leaf node at level  7 containing: PointCloud size: 3948
+       Leaf node at level  6 containing: PointCloud size: 1429
+       Leaf node at level  6 containing: PointCloud size: 1205
+       Leaf node at level  6 containing: PointCloud size: 2721
+      Leaf node at level  5 containing: PointCloud size: 298
+      Leaf node at level  5 containing: PointCloud size: 3685
+      Leaf node at level  5 containing: PointCloud size: 979
+      Branch at level 5 ...
+       Leaf node at level  6 containing: PointCloud size: 4505
+       Leaf node at level  6 containing: PointCloud size: 4398
+       Leaf node at level  6 containing: PointCloud size: 1325
+       Branch at level 6 ...
+        Leaf node at level  7 containing: PointCloud size: 6813
+        Leaf node at level  7 containing: PointCloud size: 269
+        Leaf node at level  7 containing: PointCloud size: 635
+        Leaf node at level  7 containing: PointCloud size: 1580
+        Leaf node at level  7 containing: PointCloud size: 6282
+        Leaf node at level  7 containing: PointCloud size: 2556
+        Leaf node at level  7 containing: PointCloud size: 4608
+        Leaf node at level  7 containing: PointCloud size: 3685
+       Leaf node at level  6 containing: PointCloud size: 2199
+       Leaf node at level  6 containing: PointCloud size: 1588
+       Leaf node at level  6 containing: PointCloud size: 2055
+       Branch at level 6 ...
+        Leaf node at level  7 containing: PointCloud size: 1271
+        Leaf node at level  7 containing: PointCloud size: 843
+        Leaf node at level  7 containing: PointCloud size: 2333
+        Leaf node at level  7 containing: PointCloud size: 9503
+        Leaf node at level  7 containing: PointCloud size: 935
+        Leaf node at level  7 containing: PointCloud size: 905
+        Leaf node at level  7 containing: PointCloud size: 320
+        Leaf node at level  7 containing: PointCloud size: 3303
+      Leaf node at level  5 containing: PointCloud size: 246
+      Branch at level 5 ...
+       Leaf node at level  6 containing: PointCloud size: 35
+       Leaf node at level  6 containing: PointCloud size: 4564
+       Leaf node at level  6 containing: PointCloud size: 139
+       Leaf node at level  6 containing: PointCloud size: 732
+       Leaf node at level  6 containing: PointCloud size: 36
+       Branch at level 6 ...
+        Leaf node at level  7 containing: PointCloud size: 346
+        Branch at level 7 ...
+         Leaf node at level  8 containing: PointCloud size: 1126
+         Leaf node at level  8 containing: PointCloud size: 1132
+         Leaf node at level  8 containing: PointCloud size: 426
+         Leaf node at level  8 containing: PointCloud size: 1165
+         Leaf node at level  8 containing: PointCloud size: 2750
+         Leaf node at level  8 containing: PointCloud size: 2340
+         Leaf node at level  8 containing: PointCloud size: 810
+         Leaf node at level  8 containing: PointCloud size: 3922
+        Leaf node at level  7 containing: PointCloud size: 287
+        Leaf node at level  7 containing: PointCloud size: 2021
+        Leaf node at level  7 containing: PointCloud size: 190
+        Leaf node at level  7 containing: PointCloud size: 8649
+        Leaf node at level  7 containing: PointCloud size: 54
+        Leaf node at level  7 containing: PointCloud size: 2717
+       Leaf node at level  6 containing: PointCloud size: 57
+       Leaf node at level  6 containing: PointCloud size: 3414
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 1296
+      Leaf node at level  5 containing: PointCloud size: 1686
+      Branch at level 5 ...
+       Leaf node at level  6 containing: PointCloud size: 2735
+       Leaf node at level  6 containing: PointCloud size: 1471
+       Leaf node at level  6 containing: PointCloud size: 798
+       Leaf node at level  6 containing: PointCloud size: 908
+       Leaf node at level  6 containing: PointCloud size: 3383
+       Leaf node at level  6 containing: PointCloud size: 658
+       Leaf node at level  6 containing: PointCloud size: 1355
+       Leaf node at level  6 containing: PointCloud size: 655
+      Leaf node at level  5 containing: PointCloud size: 1937
+      Branch at level 5 ...
+       Leaf node at level  6 containing: PointCloud size: 1282
+       Leaf node at level  6 containing: PointCloud size: 186
+       Leaf node at level  6 containing: PointCloud size: 1038
+       Leaf node at level  6 containing: PointCloud size: 525
+       Leaf node at level  6 containing: PointCloud size: 300
+       Leaf node at level  6 containing: PointCloud size: 268
+       Branch at level 6 ...
+        Leaf node at level  7 containing: PointCloud size: 183
+        Leaf node at level  7 containing: PointCloud size: 203
+        Leaf node at level  7 containing: PointCloud size: 7614
+        Leaf node at level  7 containing: PointCloud size: 599
+        Leaf node at level  7 containing: PointCloud size: 43
+        Leaf node at level  7 containing: PointCloud size: 43
+        Leaf node at level  7 containing: PointCloud size: 1475
+        Leaf node at level  7 containing: PointCloud size: 140
+       Leaf node at level  6 containing: PointCloud size: 2537
+      Leaf node at level  5 containing: PointCloud size: 8289
+      Branch at level 5 ...
+       Leaf node at level  6 containing: PointCloud size: 6885
+       Leaf node at level  6 containing: PointCloud size: 983
+       Leaf node at level  6 containing: PointCloud size: 2683
+       Leaf node at level  6 containing: PointCloud size: 675
+       Branch at level 6 ...
+        Branch at level 7 ...
+         Leaf node at level  8 containing: PointCloud size: 868
+         Leaf node at level  8 containing: PointCloud size: 238
+         Leaf node at level  8 containing: PointCloud size: 2710
+         Leaf node at level  8 containing: PointCloud size: 763
+         Leaf node at level  8 containing: PointCloud size: 3316
+         Leaf node at level  8 containing: PointCloud size: 1763
+         Leaf node at level  8 containing: PointCloud size: 7284
+         Leaf node at level  8 containing: PointCloud size: 5044
+        Leaf node at level  7 containing: PointCloud size: 1715
+        Branch at level 7 ...
+         Leaf node at level  8 containing: PointCloud size: 540
+         Leaf node at level  8 containing: PointCloud size: 7638
+         Leaf node at level  8 containing: PointCloud size: 85
+         Leaf node at level  8 containing: PointCloud size: 259
+         Leaf node at level  8 containing: PointCloud size: 2352
+         Leaf node at level  8 containing: PointCloud size: 1984
+         Leaf node at level  8 containing: PointCloud size: 75
+         Leaf node at level  8 containing: PointCloud size: 372
+        Leaf node at level  7 containing: PointCloud size: 5002
+        Branch at level 7 ...
+         Leaf node at level  8 containing: PointCloud size: 7058
+         Leaf node at level  8 containing: PointCloud size: 2898
+         Branch at level 8 ...
+          Leaf node at level  9 containing: PointCloud size: 1493
+          Leaf node at level  9 containing: PointCloud size: 2363
+          Leaf node at level  9 containing: PointCloud size: 4687
+          Branch at level 9 ...
+           Leaf node at level  10 containing: PointCloud size: 905
+           Leaf node at level  10 containing: PointCloud size: 482
+           Leaf node at level  10 containing: PointCloud size: 554
+           Leaf node at level  10 containing: PointCloud size: 577
+           Leaf node at level  10 containing: PointCloud size: 2197
+           Leaf node at level  10 containing: PointCloud size: 1553
+           Leaf node at level  10 containing: PointCloud size: 3348
+           Leaf node at level  10 containing: PointCloud size: 5728
+          Leaf node at level  9 containing: PointCloud size: 1788
+          Leaf node at level  9 containing: PointCloud size: 2555
+          Leaf node at level  9 containing: PointCloud size: 3304
+          Branch at level 9 ...
+           Leaf node at level  10 containing: PointCloud size: 2367
+           Leaf node at level  10 containing: PointCloud size: 2643
+           Leaf node at level  10 containing: PointCloud size: 7568
+           Branch at level 10 ...
+            Leaf node at level  11 containing: PointCloud size: 3146
+            Leaf node at level  11 containing: PointCloud size: 1382
+            Branch at level 11 ...
+             Leaf node at level  12 containing: PointCloud size: 594
+             Leaf node at level  12 containing: PointCloud size: 1031
+             Leaf node at level  12 containing: PointCloud size: 709
+             Leaf node at level  12 containing: PointCloud size: 1250
+             Leaf node at level  12 containing: PointCloud size: 1341
+             Leaf node at level  12 containing: PointCloud size: 3652
+             Leaf node at level  12 containing: PointCloud size: 2138
+             Branch at level 12 ...
+              Leaf node at level  13 containing: PointCloud size: 565
+              Leaf node at level  13 containing: PointCloud size: 623
+              Leaf node at level  13 containing: PointCloud size: 506
+              Leaf node at level  13 containing: PointCloud size: 610
+              Leaf node at level  13 containing: PointCloud size: 3780
+              Leaf node at level  13 containing: PointCloud size: 6569
+              Leaf node at level  13 containing: PointCloud size: 2347
+              Branch at level 13 ...
+               Leaf node at level  14 containing: PointCloud size: 344
+               Leaf node at level  14 containing: PointCloud size: 271
+               Leaf node at level  14 containing: PointCloud size: 180
+               Leaf node at level  14 containing: PointCloud size: 161
+               Leaf node at level  14 containing: PointCloud size: 6116
+               Leaf node at level  14 containing: PointCloud size: 3651
+               Leaf node at level  14 containing: PointCloud size: 476
+               Leaf node at level  14 containing: PointCloud size: 343
+            Leaf node at level  11 containing: PointCloud size: 8183
+            Leaf node at level  11 containing: PointCloud size: 2734
+            Leaf node at level  11 containing: PointCloud size: 1526
+            Branch at level 11 ...
+             Leaf node at level  12 containing: PointCloud size: 1368
+             Leaf node at level  12 containing: PointCloud size: 3650
+             Leaf node at level  12 containing: PointCloud size: 2853
+             Branch at level 12 ...
+              Branch at level 13 ...
+               Leaf node at level  14 containing: PointCloud size: 214
+               Leaf node at level  14 containing: PointCloud size: 433
+               Leaf node at level  14 containing: PointCloud size: 752
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 126
+                Leaf node at level  15 containing: PointCloud size: 154
+                Leaf node at level  15 containing: PointCloud size: 1262
+                Leaf node at level  15 containing: PointCloud size: 2794
+                Leaf node at level  15 containing: PointCloud size: 145
+                Leaf node at level  15 containing: PointCloud size: 189
+                Leaf node at level  15 containing: PointCloud size: 1850
+                Leaf node at level  15 containing: PointCloud size: 3674
+               Leaf node at level  14 containing: PointCloud size: 183
+               Leaf node at level  14 containing: PointCloud size: 373
+               Leaf node at level  14 containing: PointCloud size: 688
+               Leaf node at level  14 containing: PointCloud size: 7277
+              Branch at level 13 ...
+               Leaf node at level  14 containing: PointCloud size: 664
+               Leaf node at level  14 containing: PointCloud size: 345
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 195
+                Leaf node at level  15 containing: PointCloud size: 229
+                Leaf node at level  15 containing: PointCloud size: 3240
+                Leaf node at level  15 containing: PointCloud size: 2161
+                Leaf node at level  15 containing: PointCloud size: 283
+                Leaf node at level  15 containing: PointCloud size: 299
+                Leaf node at level  15 containing: PointCloud size: 4107
+                Leaf node at level  15 containing: PointCloud size: 4443
+               Leaf node at level  14 containing: PointCloud size: 3177
+               Leaf node at level  14 containing: PointCloud size: 483
+               Leaf node at level  14 containing: PointCloud size: 299
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 265
+                Leaf node at level  15 containing: PointCloud size: 307
+                Leaf node at level  15 containing: PointCloud size: 3390
+                Leaf node at level  15 containing: PointCloud size: 4565
+                Leaf node at level  15 containing: PointCloud size: 218
+                Leaf node at level  15 containing: PointCloud size: 227
+                Leaf node at level  15 containing: PointCloud size: 1363
+                Leaf node at level  15 containing: PointCloud size: 996
+               Leaf node at level  14 containing: PointCloud size: 2588
+              Branch at level 13 ...
+               Leaf node at level  14 containing: PointCloud size: 465
+               Leaf node at level  14 containing: PointCloud size: 8727
+               Leaf node at level  14 containing: PointCloud size: 202
+               Leaf node at level  14 containing: PointCloud size: 415
+               Leaf node at level  14 containing: PointCloud size: 541
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 1274
+                Leaf node at level  15 containing: PointCloud size: 7591
+                Leaf node at level  15 containing: PointCloud size: 139
+                Leaf node at level  15 containing: PointCloud size: 298
+                Leaf node at level  15 containing: PointCloud size: 989
+                Leaf node at level  15 containing: PointCloud size: 5372
+                Leaf node at level  15 containing: PointCloud size: 138
+                Leaf node at level  15 containing: PointCloud size: 249
+               Leaf node at level  14 containing: PointCloud size: 220
+               Leaf node at level  14 containing: PointCloud size: 525
+              Branch at level 13 ...
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 7111
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 1989
+                 Leaf node at level  16 containing: PointCloud size: 2007
+                 Leaf node at level  16 containing: PointCloud size: 288
+                 Leaf node at level  16 containing: PointCloud size: 472
+                 Leaf node at level  16 containing: PointCloud size: 3320
+                 Leaf node at level  16 containing: PointCloud size: 3296
+                 Leaf node at level  16 containing: PointCloud size: 658
+                 Leaf node at level  16 containing: PointCloud size: 881
+                Leaf node at level  15 containing: PointCloud size: 352
+                Leaf node at level  15 containing: PointCloud size: 489
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 2464
+                 Leaf node at level  16 containing: PointCloud size: 4644
+                 Leaf node at level  16 containing: PointCloud size: 368
+                 Leaf node at level  16 containing: PointCloud size: 866
+                 Leaf node at level  16 containing: PointCloud size: 3398
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 651
+                  Leaf node at level  17 containing: PointCloud size: 1071
+                  Leaf node at level  17 containing: PointCloud size: 690
+                  Leaf node at level  17 containing: PointCloud size: 1738
+                  Leaf node at level  17 containing: PointCloud size: 775
+                  Leaf node at level  17 containing: PointCloud size: 1531
+                  Leaf node at level  17 containing: PointCloud size: 988
+                  Leaf node at level  17 containing: PointCloud size: 3132
+                 Leaf node at level  16 containing: PointCloud size: 559
+                 Leaf node at level  16 containing: PointCloud size: 2132
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 8523
+                 Leaf node at level  16 containing: PointCloud size: 6536
+                 Leaf node at level  16 containing: PointCloud size: 2043
+                 Leaf node at level  16 containing: PointCloud size: 2501
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 1546
+                  Leaf node at level  17 containing: PointCloud size: 1642
+                  Leaf node at level  17 containing: PointCloud size: 4146
+                  Leaf node at level  17 containing: PointCloud size: 6106
+                  Leaf node at level  17 containing: PointCloud size: 2665
+                  Leaf node at level  17 containing: PointCloud size: 2425
+                  Branch at level 17 ...
+                   Leaf node at level  18 containing: PointCloud size: 1049
+                   Leaf node at level  18 containing: PointCloud size: 1724
+                   Leaf node at level  18 containing: PointCloud size: 638
+                   Leaf node at level  18 containing: PointCloud size: 1311
+                   Leaf node at level  18 containing: PointCloud size: 1727
+                   Leaf node at level  18 containing: PointCloud size: 3038
+                   Leaf node at level  18 containing: PointCloud size: 1111
+                   Leaf node at level  18 containing: PointCloud size: 2103
+                  Branch at level 17 ...
+                   Leaf node at level  18 containing: PointCloud size: 2046
+                   Leaf node at level  18 containing: PointCloud size: 1556
+                   Leaf node at level  18 containing: PointCloud size: 1940
+                   Leaf node at level  18 containing: PointCloud size: 2095
+                   Leaf node at level  18 containing: PointCloud size: 2809
+                   Leaf node at level  18 containing: PointCloud size: 2011
+                   Leaf node at level  18 containing: PointCloud size: 3230
+                   Leaf node at level  18 containing: PointCloud size: 3172
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 1027
+                  Leaf node at level  17 containing: PointCloud size: 453
+                  Leaf node at level  17 containing: PointCloud size: 4054
+                  Leaf node at level  17 containing: PointCloud size: 1883
+                  Leaf node at level  17 containing: PointCloud size: 1334
+                  Leaf node at level  17 containing: PointCloud size: 528
+                  Leaf node at level  17 containing: PointCloud size: 9724
+                  Leaf node at level  17 containing: PointCloud size: 2770
+                 Leaf node at level  16 containing: PointCloud size: 8866
+                 Leaf node at level  16 containing: PointCloud size: 8719
+                Leaf node at level  15 containing: PointCloud size: 767
+                Leaf node at level  15 containing: PointCloud size: 1536
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 9428
+                Leaf node at level  15 containing: PointCloud size: 2752
+                Leaf node at level  15 containing: PointCloud size: 562
+                Leaf node at level  15 containing: PointCloud size: 413
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 3020
+                 Leaf node at level  16 containing: PointCloud size: 1258
+                 Leaf node at level  16 containing: PointCloud size: 2290
+                 Leaf node at level  16 containing: PointCloud size: 1978
+                 Leaf node at level  16 containing: PointCloud size: 3361
+                 Leaf node at level  16 containing: PointCloud size: 1138
+                 Leaf node at level  16 containing: PointCloud size: 3927
+                 Leaf node at level  16 containing: PointCloud size: 2439
+                Leaf node at level  15 containing: PointCloud size: 5715
+                Leaf node at level  15 containing: PointCloud size: 1249
+                Leaf node at level  15 containing: PointCloud size: 936
+               Leaf node at level  14 containing: PointCloud size: 887
+               Leaf node at level  14 containing: PointCloud size: 768
+               Branch at level 14 ...
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 3531
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 789
+                  Leaf node at level  17 containing: PointCloud size: 1573
+                  Leaf node at level  17 containing: PointCloud size: 1256
+                  Leaf node at level  17 containing: PointCloud size: 4351
+                  Leaf node at level  17 containing: PointCloud size: 655
+                  Leaf node at level  17 containing: PointCloud size: 1139
+                  Leaf node at level  17 containing: PointCloud size: 1179
+                  Leaf node at level  17 containing: PointCloud size: 3503
+                 Leaf node at level  16 containing: PointCloud size: 705
+                 Leaf node at level  16 containing: PointCloud size: 3430
+                 Leaf node at level  16 containing: PointCloud size: 3160
+                 Leaf node at level  16 containing: PointCloud size: 7070
+                 Leaf node at level  16 containing: PointCloud size: 764
+                 Leaf node at level  16 containing: PointCloud size: 2529
+                Branch at level 15 ...
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 2880
+                  Leaf node at level  17 containing: PointCloud size: 2598
+                  Branch at level 17 ...
+                   Leaf node at level  18 containing: PointCloud size: 2142
+                   Leaf node at level  18 containing: PointCloud size: 3409
+                   Leaf node at level  18 containing: PointCloud size: 1502
+                   Leaf node at level  18 containing: PointCloud size: 2852
+                   Leaf node at level  18 containing: PointCloud size: 1823
+                   Leaf node at level  18 containing: PointCloud size: 2803
+                   Leaf node at level  18 containing: PointCloud size: 1509
+                   Leaf node at level  18 containing: PointCloud size: 3034
+                  Branch at level 17 ...
+                   Leaf node at level  18 containing: PointCloud size: 3101
+                   Leaf node at level  18 containing: PointCloud size: 2166
+                   Leaf node at level  18 containing: PointCloud size: 4388
+                   Leaf node at level  18 containing: PointCloud size: 4859
+                   Leaf node at level  18 containing: PointCloud size: 2710
+                   Leaf node at level  18 containing: PointCloud size: 1992
+                   Leaf node at level  18 containing: PointCloud size: 4590
+                   Leaf node at level  18 containing: PointCloud size: 5703
+                  Leaf node at level  17 containing: PointCloud size: 1849
+                  Leaf node at level  17 containing: PointCloud size: 1831
+                  Branch at level 17 ...
+                   Leaf node at level  18 containing: PointCloud size: 1208
+                   Leaf node at level  18 containing: PointCloud size: 1677
+                   Leaf node at level  18 containing: PointCloud size: 1224
+                   Leaf node at level  18 containing: PointCloud size: 2203
+                   Leaf node at level  18 containing: PointCloud size: 697
+                   Leaf node at level  18 containing: PointCloud size: 932
+                   Leaf node at level  18 containing: PointCloud size: 853
+                   Leaf node at level  18 containing: PointCloud size: 1426
+                  Branch at level 17 ...
+                   Leaf node at level  18 containing: PointCloud size: 1568
+                   Leaf node at level  18 containing: PointCloud size: 1292
+                   Leaf node at level  18 containing: PointCloud size: 3240
+                   Leaf node at level  18 containing: PointCloud size: 3839
+                   Leaf node at level  18 containing: PointCloud size: 955
+                   Leaf node at level  18 containing: PointCloud size: 861
+                   Leaf node at level  18 containing: PointCloud size: 2030
+                   Leaf node at level  18 containing: PointCloud size: 2481
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 1512
+                  Leaf node at level  17 containing: PointCloud size: 615
+                  Branch at level 17 ...
+                   Leaf node at level  18 containing: PointCloud size: 1395
+                   Leaf node at level  18 containing: PointCloud size: 755
+                   Leaf node at level  18 containing: PointCloud size: 3628
+                   Leaf node at level  18 containing: PointCloud size: 1819
+                   Leaf node at level  18 containing: PointCloud size: 1316
+                   Leaf node at level  18 containing: PointCloud size: 765
+                   Leaf node at level  18 containing: PointCloud size: 4426
+                   Leaf node at level  18 containing: PointCloud size: 2108
+                  Leaf node at level  17 containing: PointCloud size: 3361
+                  Leaf node at level  17 containing: PointCloud size: 1129
+                  Leaf node at level  17 containing: PointCloud size: 437
+                  Branch at level 17 ...
+                   Leaf node at level  18 containing: PointCloud size: 1053
+                   Leaf node at level  18 containing: PointCloud size: 640
+                   Leaf node at level  18 containing: PointCloud size: 3627
+                   Leaf node at level  18 containing: PointCloud size: 1794
+                   Leaf node at level  18 containing: PointCloud size: 686
+                   Leaf node at level  18 containing: PointCloud size: 389
+                   Leaf node at level  18 containing: PointCloud size: 2034
+                   Leaf node at level  18 containing: PointCloud size: 1062
+                  Leaf node at level  17 containing: PointCloud size: 2419
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 2690
+                  Leaf node at level  17 containing: PointCloud size: 4869
+                  Leaf node at level  17 containing: PointCloud size: 453
+                  Leaf node at level  17 containing: PointCloud size: 637
+                  Leaf node at level  17 containing: PointCloud size: 2391
+                  Leaf node at level  17 containing: PointCloud size: 4886
+                  Leaf node at level  17 containing: PointCloud size: 377
+                  Leaf node at level  17 containing: PointCloud size: 589
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 5461
+                  Leaf node at level  17 containing: PointCloud size: 2416
+                  Leaf node at level  17 containing: PointCloud size: 571
+                  Leaf node at level  17 containing: PointCloud size: 382
+                  Leaf node at level  17 containing: PointCloud size: 5546
+                  Leaf node at level  17 containing: PointCloud size: 2325
+                  Leaf node at level  17 containing: PointCloud size: 549
+                  Leaf node at level  17 containing: PointCloud size: 399
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 908
+                  Leaf node at level  17 containing: PointCloud size: 852
+                  Leaf node at level  17 containing: PointCloud size: 3898
+                  Leaf node at level  17 containing: PointCloud size: 4926
+                  Leaf node at level  17 containing: PointCloud size: 435
+                  Leaf node at level  17 containing: PointCloud size: 376
+                  Leaf node at level  17 containing: PointCloud size: 1636
+                  Leaf node at level  17 containing: PointCloud size: 1590
+                 Leaf node at level  16 containing: PointCloud size: 7600
+                 Leaf node at level  16 containing: PointCloud size: 7884
+                 Leaf node at level  16 containing: PointCloud size: 7776
+                Leaf node at level  15 containing: PointCloud size: 1055
+                Leaf node at level  15 containing: PointCloud size: 2354
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 2406
+                 Leaf node at level  16 containing: PointCloud size: 3386
+                 Leaf node at level  16 containing: PointCloud size: 697
+                 Leaf node at level  16 containing: PointCloud size: 1636
+                 Leaf node at level  16 containing: PointCloud size: 1807
+                 Leaf node at level  16 containing: PointCloud size: 1714
+                 Leaf node at level  16 containing: PointCloud size: 623
+                 Leaf node at level  16 containing: PointCloud size: 1268
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 3444
+                 Leaf node at level  16 containing: PointCloud size: 1882
+                 Leaf node at level  16 containing: PointCloud size: 3082
+                 Leaf node at level  16 containing: PointCloud size: 3358
+                 Leaf node at level  16 containing: PointCloud size: 1386
+                 Leaf node at level  16 containing: PointCloud size: 839
+                 Leaf node at level  16 containing: PointCloud size: 1888
+                 Leaf node at level  16 containing: PointCloud size: 2141
+                Leaf node at level  15 containing: PointCloud size: 660
+                Leaf node at level  15 containing: PointCloud size: 1188
+               Branch at level 14 ...
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 3004
+                 Leaf node at level  16 containing: PointCloud size: 859
+                 Leaf node at level  16 containing: PointCloud size: 4636
+                 Leaf node at level  16 containing: PointCloud size: 2538
+                 Leaf node at level  16 containing: PointCloud size: 1615
+                 Leaf node at level  16 containing: PointCloud size: 575
+                 Leaf node at level  16 containing: PointCloud size: 3605
+                 Leaf node at level  16 containing: PointCloud size: 2235
+                Leaf node at level  15 containing: PointCloud size: 6067
+                Leaf node at level  15 containing: PointCloud size: 1707
+                Leaf node at level  15 containing: PointCloud size: 1645
+                Leaf node at level  15 containing: PointCloud size: 9902
+                Leaf node at level  15 containing: PointCloud size: 3787
+                Leaf node at level  15 containing: PointCloud size: 1689
+                Leaf node at level  15 containing: PointCloud size: 1665
+               Leaf node at level  14 containing: PointCloud size: 1017
+               Leaf node at level  14 containing: PointCloud size: 970
+              Leaf node at level  13 containing: PointCloud size: 2206
+              Leaf node at level  13 containing: PointCloud size: 3634
+              Leaf node at level  13 containing: PointCloud size: 4209
+              Branch at level 13 ...
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 3977
+                Leaf node at level  15 containing: PointCloud size: 4909
+                Leaf node at level  15 containing: PointCloud size: 367
+                Leaf node at level  15 containing: PointCloud size: 680
+                Leaf node at level  15 containing: PointCloud size: 712
+                Leaf node at level  15 containing: PointCloud size: 743
+                Leaf node at level  15 containing: PointCloud size: 186
+                Leaf node at level  15 containing: PointCloud size: 265
+               Leaf node at level  14 containing: PointCloud size: 6650
+               Leaf node at level  14 containing: PointCloud size: 579
+               Leaf node at level  14 containing: PointCloud size: 545
+               Leaf node at level  14 containing: PointCloud size: 525
+               Leaf node at level  14 containing: PointCloud size: 420
+               Leaf node at level  14 containing: PointCloud size: 224
+               Leaf node at level  14 containing: PointCloud size: 256
+             Leaf node at level  12 containing: PointCloud size: 544
+             Leaf node at level  12 containing: PointCloud size: 1318
+             Leaf node at level  12 containing: PointCloud size: 963
+             Leaf node at level  12 containing: PointCloud size: 3244
+            Branch at level 11 ...
+             Leaf node at level  12 containing: PointCloud size: 1573
+             Leaf node at level  12 containing: PointCloud size: 378
+             Branch at level 12 ...
+              Leaf node at level  13 containing: PointCloud size: 1855
+              Leaf node at level  13 containing: PointCloud size: 434
+              Leaf node at level  13 containing: PointCloud size: 7764
+              Leaf node at level  13 containing: PointCloud size: 472
+              Leaf node at level  13 containing: PointCloud size: 1035
+              Leaf node at level  13 containing: PointCloud size: 342
+              Leaf node at level  13 containing: PointCloud size: 1687
+              Leaf node at level  13 containing: PointCloud size: 425
+             Leaf node at level  12 containing: PointCloud size: 764
+             Leaf node at level  12 containing: PointCloud size: 852
+             Leaf node at level  12 containing: PointCloud size: 351
+             Leaf node at level  12 containing: PointCloud size: 2083
+             Leaf node at level  12 containing: PointCloud size: 535
+           Leaf node at level  10 containing: PointCloud size: 1473
+           Leaf node at level  10 containing: PointCloud size: 1090
+           Leaf node at level  10 containing: PointCloud size: 3262
+           Leaf node at level  10 containing: PointCloud size: 6044
+         Branch at level 8 ...
+          Leaf node at level  9 containing: PointCloud size: 1944
+          Leaf node at level  9 containing: PointCloud size: 1297
+          Leaf node at level  9 containing: PointCloud size: 3240
+          Leaf node at level  9 containing: PointCloud size: 498
+          Leaf node at level  9 containing: PointCloud size: 1243
+          Leaf node at level  9 containing: PointCloud size: 397
+          Leaf node at level  9 containing: PointCloud size: 5823
+          Leaf node at level  9 containing: PointCloud size: 348
+         Leaf node at level  8 containing: PointCloud size: 1898
+         Leaf node at level  8 containing: PointCloud size: 565
+         Branch at level 8 ...
+          Leaf node at level  9 containing: PointCloud size: 1555
+          Leaf node at level  9 containing: PointCloud size: 747
+          Leaf node at level  9 containing: PointCloud size: 3252
+          Branch at level 9 ...
+           Leaf node at level  10 containing: PointCloud size: 1572
+           Leaf node at level  10 containing: PointCloud size: 220
+           Branch at level 10 ...
+            Branch at level 11 ...
+             Branch at level 12 ...
+              Leaf node at level  13 containing: PointCloud size: 89
+              Leaf node at level  13 containing: PointCloud size: 218
+              Leaf node at level  13 containing: PointCloud size: 175
+              Leaf node at level  13 containing: PointCloud size: 1376
+              Leaf node at level  13 containing: PointCloud size: 123
+              Leaf node at level  13 containing: PointCloud size: 450
+              Leaf node at level  13 containing: PointCloud size: 270
+              Branch at level 13 ...
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 31
+                Leaf node at level  15 containing: PointCloud size: 718
+                Leaf node at level  15 containing: PointCloud size: 69
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 101
+                 Leaf node at level  16 containing: PointCloud size: 683
+                 Leaf node at level  16 containing: PointCloud size: 132
+                 Leaf node at level  16 containing: PointCloud size: 671
+                 Leaf node at level  16 containing: PointCloud size: 178
+                 Leaf node at level  16 containing: PointCloud size: 5183
+                 Leaf node at level  16 containing: PointCloud size: 227
+                 Leaf node at level  16 containing: PointCloud size: 5124
+                Leaf node at level  15 containing: PointCloud size: 23
+                Leaf node at level  15 containing: PointCloud size: 354
+                Leaf node at level  15 containing: PointCloud size: 50
+                Leaf node at level  15 containing: PointCloud size: 3461
+               Leaf node at level  14 containing: PointCloud size: 4091
+               Leaf node at level  14 containing: PointCloud size: 1537
+               Leaf node at level  14 containing: PointCloud size: 433
+               Leaf node at level  14 containing: PointCloud size: 218
+               Leaf node at level  14 containing: PointCloud size: 222
+               Leaf node at level  14 containing: PointCloud size: 151
+               Leaf node at level  14 containing: PointCloud size: 90
+             Leaf node at level  12 containing: PointCloud size: 670
+             Leaf node at level  12 containing: PointCloud size: 623
+             Leaf node at level  12 containing: PointCloud size: 184
+             Leaf node at level  12 containing: PointCloud size: 412
+             Leaf node at level  12 containing: PointCloud size: 178
+             Leaf node at level  12 containing: PointCloud size: 150
+             Leaf node at level  12 containing: PointCloud size: 77
+            Leaf node at level  11 containing: PointCloud size: 248
+            Leaf node at level  11 containing: PointCloud size: 213
+            Leaf node at level  11 containing: PointCloud size: 174
+            Leaf node at level  11 containing: PointCloud size: 153
+            Leaf node at level  11 containing: PointCloud size: 81
+            Leaf node at level  11 containing: PointCloud size: 46
+            Leaf node at level  11 containing: PointCloud size: 61
+           Leaf node at level  10 containing: PointCloud size: 571
+           Leaf node at level  10 containing: PointCloud size: 181
+           Leaf node at level  10 containing: PointCloud size: 53
+           Leaf node at level  10 containing: PointCloud size: 132
+           Leaf node at level  10 containing: PointCloud size: 230
+          Leaf node at level  9 containing: PointCloud size: 311
+          Leaf node at level  9 containing: PointCloud size: 289
+          Leaf node at level  9 containing: PointCloud size: 389
+          Leaf node at level  9 containing: PointCloud size: 329
+         Leaf node at level  8 containing: PointCloud size: 1891
+        Leaf node at level  7 containing: PointCloud size: 3352
+        Branch at level 7 ...
+         Branch at level 8 ...
+          Leaf node at level  9 containing: PointCloud size: 2692
+          Leaf node at level  9 containing: PointCloud size: 7429
+          Leaf node at level  9 containing: PointCloud size: 228
+          Leaf node at level  9 containing: PointCloud size: 402
+          Leaf node at level  9 containing: PointCloud size: 2148
+          Branch at level 9 ...
+           Leaf node at level  10 containing: PointCloud size: 3553
+           Branch at level 10 ...
+            Leaf node at level  11 containing: PointCloud size: 6001
+            Leaf node at level  11 containing: PointCloud size: 4127
+            Leaf node at level  11 containing: PointCloud size: 855
+            Leaf node at level  11 containing: PointCloud size: 694
+            Branch at level 11 ...
+             Leaf node at level  12 containing: PointCloud size: 1020
+             Leaf node at level  12 containing: PointCloud size: 4927
+             Leaf node at level  12 containing: PointCloud size: 334
+             Leaf node at level  12 containing: PointCloud size: 663
+             Leaf node at level  12 containing: PointCloud size: 626
+             Leaf node at level  12 containing: PointCloud size: 2003
+             Leaf node at level  12 containing: PointCloud size: 263
+             Leaf node at level  12 containing: PointCloud size: 603
+            Leaf node at level  11 containing: PointCloud size: 7610
+            Leaf node at level  11 containing: PointCloud size: 1005
+            Leaf node at level  11 containing: PointCloud size: 1009
+           Leaf node at level  10 containing: PointCloud size: 776
+           Leaf node at level  10 containing: PointCloud size: 1497
+           Leaf node at level  10 containing: PointCloud size: 1411
+           Leaf node at level  10 containing: PointCloud size: 4818
+           Leaf node at level  10 containing: PointCloud size: 430
+           Leaf node at level  10 containing: PointCloud size: 774
+          Leaf node at level  9 containing: PointCloud size: 552
+          Leaf node at level  9 containing: PointCloud size: 807
+         Branch at level 8 ...
+          Leaf node at level  9 containing: PointCloud size: 3111
+          Leaf node at level  9 containing: PointCloud size: 379
+          Leaf node at level  9 containing: PointCloud size: 269
+          Leaf node at level  9 containing: PointCloud size: 98
+          Leaf node at level  9 containing: PointCloud size: 6020
+          Leaf node at level  9 containing: PointCloud size: 472
+          Leaf node at level  9 containing: PointCloud size: 241
+          Leaf node at level  9 containing: PointCloud size: 80
+         Leaf node at level  8 containing: PointCloud size: 233
+         Leaf node at level  8 containing: PointCloud size: 467
+         Leaf node at level  8 containing: PointCloud size: 4810
+         Leaf node at level  8 containing: PointCloud size: 3133
+         Leaf node at level  8 containing: PointCloud size: 286
+         Leaf node at level  8 containing: PointCloud size: 616
+        Branch at level 7 ...
+         Leaf node at level  8 containing: PointCloud size: 1156
+         Leaf node at level  8 containing: PointCloud size: 73
+         Branch at level 8 ...
+          Leaf node at level  9 containing: PointCloud size: 1910
+          Leaf node at level  9 containing: PointCloud size: 446
+          Leaf node at level  9 containing: PointCloud size: 81
+          Leaf node at level  9 containing: PointCloud size: 534
+          Leaf node at level  9 containing: PointCloud size: 122
+          Leaf node at level  9 containing: PointCloud size: 157
+          Leaf node at level  9 containing: PointCloud size: 142
+          Branch at level 9 ...
+           Leaf node at level  10 containing: PointCloud size: 51
+           Leaf node at level  10 containing: PointCloud size: 341
+           Leaf node at level  10 containing: PointCloud size: 70
+           Leaf node at level  10 containing: PointCloud size: 9185
+           Leaf node at level  10 containing: PointCloud size: 22
+           Leaf node at level  10 containing: PointCloud size: 249
+           Leaf node at level  10 containing: PointCloud size: 31
+           Leaf node at level  10 containing: PointCloud size: 194
+         Leaf node at level  8 containing: PointCloud size: 1169
+         Leaf node at level  8 containing: PointCloud size: 4150
+         Leaf node at level  8 containing: PointCloud size: 376
+         Leaf node at level  8 containing: PointCloud size: 968
+         Leaf node at level  8 containing: PointCloud size: 93
+       Leaf node at level  6 containing: PointCloud size: 2955
+       Leaf node at level  6 containing: PointCloud size: 5637
+       Leaf node at level  6 containing: PointCloud size: 1207
+      Leaf node at level  5 containing: PointCloud size: 975
+     Leaf node at level  4 containing: PointCloud size: 6845
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 2862
+      Leaf node at level  5 containing: PointCloud size: 860
+      Leaf node at level  5 containing: PointCloud size: 359
+      Leaf node at level  5 containing: PointCloud size: 1052
+      Leaf node at level  5 containing: PointCloud size: 7495
+      Leaf node at level  5 containing: PointCloud size: 1991
+      Leaf node at level  5 containing: PointCloud size: 357
+      Leaf node at level  5 containing: PointCloud size: 4806
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 3349
+      Branch at level 5 ...
+       Leaf node at level  6 containing: PointCloud size: 828
+       Leaf node at level  6 containing: PointCloud size: 2131
+       Leaf node at level  6 containing: PointCloud size: 2420
+       Leaf node at level  6 containing: PointCloud size: 5671
+       Leaf node at level  6 containing: PointCloud size: 61
+       Branch at level 6 ...
+        Leaf node at level  7 containing: PointCloud size: 8308
+        Leaf node at level  7 containing: PointCloud size: 156
+        Leaf node at level  7 containing: PointCloud size: 201
+        Leaf node at level  7 containing: PointCloud size: 2034
+        Leaf node at level  7 containing: PointCloud size: 333
+        Leaf node at level  7 containing: PointCloud size: 340
+        Leaf node at level  7 containing: PointCloud size: 108
+        Leaf node at level  7 containing: PointCloud size: 360
+       Leaf node at level  6 containing: PointCloud size: 145
+       Leaf node at level  6 containing: PointCloud size: 974
+      Leaf node at level  5 containing: PointCloud size: 446
+      Leaf node at level  5 containing: PointCloud size: 8411
+      Leaf node at level  5 containing: PointCloud size: 3319
+      Leaf node at level  5 containing: PointCloud size: 2767
+      Leaf node at level  5 containing: PointCloud size: 818
+      Leaf node at level  5 containing: PointCloud size: 1327
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 3785
+      Leaf node at level  5 containing: PointCloud size: 1044
+      Branch at level 5 ...
+       Branch at level 6 ...
+        Leaf node at level  7 containing: PointCloud size: 5049
+        Leaf node at level  7 containing: PointCloud size: 1650
+        Branch at level 7 ...
+         Leaf node at level  8 containing: PointCloud size: 2990
+         Leaf node at level  8 containing: PointCloud size: 1328
+         Leaf node at level  8 containing: PointCloud size: 150
+         Leaf node at level  8 containing: PointCloud size: 1120
+         Leaf node at level  8 containing: PointCloud size: 252
+         Leaf node at level  8 containing: PointCloud size: 1890
+         Leaf node at level  8 containing: PointCloud size: 115
+         Leaf node at level  8 containing: PointCloud size: 3874
+        Branch at level 7 ...
+         Leaf node at level  8 containing: PointCloud size: 5021
+         Leaf node at level  8 containing: PointCloud size: 913
+         Leaf node at level  8 containing: PointCloud size: 7509
+         Leaf node at level  8 containing: PointCloud size: 841
+         Branch at level 8 ...
+          Leaf node at level  9 containing: PointCloud size: 437
+          Leaf node at level  9 containing: PointCloud size: 475
+          Leaf node at level  9 containing: PointCloud size: 1959
+          Leaf node at level  9 containing: PointCloud size: 3422
+          Leaf node at level  9 containing: PointCloud size: 571
+          Leaf node at level  9 containing: PointCloud size: 422
+          Leaf node at level  9 containing: PointCloud size: 1529
+          Leaf node at level  9 containing: PointCloud size: 2030
+         Leaf node at level  8 containing: PointCloud size: 933
+         Branch at level 8 ...
+          Branch at level 9 ...
+           Leaf node at level  10 containing: PointCloud size: 718
+           Leaf node at level  10 containing: PointCloud size: 4499
+           Leaf node at level  10 containing: PointCloud size: 475
+           Leaf node at level  10 containing: PointCloud size: 4915
+           Leaf node at level  10 containing: PointCloud size: 1256
+           Leaf node at level  10 containing: PointCloud size: 4794
+           Leaf node at level  10 containing: PointCloud size: 917
+           Leaf node at level  10 containing: PointCloud size: 3240
+          Branch at level 9 ...
+           Branch at level 10 ...
+            Leaf node at level  11 containing: PointCloud size: 278
+            Leaf node at level  11 containing: PointCloud size: 307
+            Leaf node at level  11 containing: PointCloud size: 921
+            Leaf node at level  11 containing: PointCloud size: 394
+            Leaf node at level  11 containing: PointCloud size: 651
+            Leaf node at level  11 containing: PointCloud size: 323
+            Branch at level 11 ...
+             Leaf node at level  12 containing: PointCloud size: 503
+             Leaf node at level  12 containing: PointCloud size: 407
+             Leaf node at level  12 containing: PointCloud size: 3090
+             Leaf node at level  12 containing: PointCloud size: 1884
+             Leaf node at level  12 containing: PointCloud size: 2788
+             Leaf node at level  12 containing: PointCloud size: 1995
+             Branch at level 12 ...
+              Leaf node at level  13 containing: PointCloud size: 2760
+              Branch at level 13 ...
+               Leaf node at level  14 containing: PointCloud size: 795
+               Leaf node at level  14 containing: PointCloud size: 382
+               Leaf node at level  14 containing: PointCloud size: 2747
+               Leaf node at level  14 containing: PointCloud size: 2184
+               Leaf node at level  14 containing: PointCloud size: 1751
+               Leaf node at level  14 containing: PointCloud size: 642
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 785
+                Leaf node at level  15 containing: PointCloud size: 1278
+                Leaf node at level  15 containing: PointCloud size: 1132
+                Leaf node at level  15 containing: PointCloud size: 5028
+                Leaf node at level  15 containing: PointCloud size: 1969
+                Leaf node at level  15 containing: PointCloud size: 2349
+                Leaf node at level  15 containing: PointCloud size: 3318
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 1241
+                 Leaf node at level  16 containing: PointCloud size: 1110
+                 Leaf node at level  16 containing: PointCloud size: 1665
+                 Leaf node at level  16 containing: PointCloud size: 3474
+                 Leaf node at level  16 containing: PointCloud size: 1626
+                 Leaf node at level  16 containing: PointCloud size: 1261
+                 Leaf node at level  16 containing: PointCloud size: 3094
+                 Leaf node at level  16 containing: PointCloud size: 6448
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 543
+                Leaf node at level  15 containing: PointCloud size: 141
+                Leaf node at level  15 containing: PointCloud size: 3111
+                Leaf node at level  15 containing: PointCloud size: 480
+                Leaf node at level  15 containing: PointCloud size: 762
+                Leaf node at level  15 containing: PointCloud size: 216
+                Leaf node at level  15 containing: PointCloud size: 6870
+                Leaf node at level  15 containing: PointCloud size: 699
+              Leaf node at level  13 containing: PointCloud size: 1878
+              Branch at level 13 ...
+               Leaf node at level  14 containing: PointCloud size: 1708
+               Leaf node at level  14 containing: PointCloud size: 3753
+               Leaf node at level  14 containing: PointCloud size: 538
+               Leaf node at level  14 containing: PointCloud size: 1012
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 556
+                Leaf node at level  15 containing: PointCloud size: 3640
+                Leaf node at level  15 containing: PointCloud size: 292
+                Leaf node at level  15 containing: PointCloud size: 907
+                Leaf node at level  15 containing: PointCloud size: 1500
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 1117
+                 Leaf node at level  16 containing: PointCloud size: 4175
+                 Leaf node at level  16 containing: PointCloud size: 528
+                 Leaf node at level  16 containing: PointCloud size: 1657
+                 Leaf node at level  16 containing: PointCloud size: 2803
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 1155
+                  Leaf node at level  17 containing: PointCloud size: 1850
+                  Leaf node at level  17 containing: PointCloud size: 875
+                  Leaf node at level  17 containing: PointCloud size: 1868
+                  Leaf node at level  17 containing: PointCloud size: 1972
+                  Leaf node at level  17 containing: PointCloud size: 4124
+                  Leaf node at level  17 containing: PointCloud size: 1592
+                  Leaf node at level  17 containing: PointCloud size: 5556
+                 Leaf node at level  16 containing: PointCloud size: 983
+                 Leaf node at level  16 containing: PointCloud size: 4855
+                Leaf node at level  15 containing: PointCloud size: 431
+                Leaf node at level  15 containing: PointCloud size: 2508
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 6610
+                Leaf node at level  15 containing: PointCloud size: 1484
+                Leaf node at level  15 containing: PointCloud size: 2409
+                Leaf node at level  15 containing: PointCloud size: 1432
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 4412
+                 Leaf node at level  16 containing: PointCloud size: 1318
+                 Leaf node at level  16 containing: PointCloud size: 3050
+                 Leaf node at level  16 containing: PointCloud size: 1655
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 1392
+                  Leaf node at level  17 containing: PointCloud size: 581
+                  Leaf node at level  17 containing: PointCloud size: 2034
+                  Leaf node at level  17 containing: PointCloud size: 950
+                  Leaf node at level  17 containing: PointCloud size: 2304
+                  Leaf node at level  17 containing: PointCloud size: 783
+                  Leaf node at level  17 containing: PointCloud size: 4618
+                  Leaf node at level  17 containing: PointCloud size: 1310
+                 Leaf node at level  16 containing: PointCloud size: 1751
+                 Leaf node at level  16 containing: PointCloud size: 8240
+                 Leaf node at level  16 containing: PointCloud size: 2539
+                Leaf node at level  15 containing: PointCloud size: 2418
+                Leaf node at level  15 containing: PointCloud size: 7705
+                Leaf node at level  15 containing: PointCloud size: 3171
+               Leaf node at level  14 containing: PointCloud size: 1674
+               Leaf node at level  14 containing: PointCloud size: 3829
+              Leaf node at level  13 containing: PointCloud size: 4237
+              Branch at level 13 ...
+               Leaf node at level  14 containing: PointCloud size: 1707
+               Leaf node at level  14 containing: PointCloud size: 911
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 2004
+                Leaf node at level  15 containing: PointCloud size: 1802
+                Leaf node at level  15 containing: PointCloud size: 4124
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 1374
+                 Leaf node at level  16 containing: PointCloud size: 947
+                 Leaf node at level  16 containing: PointCloud size: 3402
+                 Leaf node at level  16 containing: PointCloud size: 5324
+                 Leaf node at level  16 containing: PointCloud size: 904
+                 Leaf node at level  16 containing: PointCloud size: 575
+                 Leaf node at level  16 containing: PointCloud size: 1875
+                 Leaf node at level  16 containing: PointCloud size: 1866
+                Leaf node at level  15 containing: PointCloud size: 1070
+                Leaf node at level  15 containing: PointCloud size: 920
+                Leaf node at level  15 containing: PointCloud size: 2151
+                Leaf node at level  15 containing: PointCloud size: 3680
+               Leaf node at level  14 containing: PointCloud size: 8075
+               Leaf node at level  14 containing: PointCloud size: 603
+               Leaf node at level  14 containing: PointCloud size: 496
+               Leaf node at level  14 containing: PointCloud size: 3161
+               Leaf node at level  14 containing: PointCloud size: 953
+              Leaf node at level  13 containing: PointCloud size: 2245
+              Branch at level 13 ...
+               Branch at level 14 ...
+                Leaf node at level  15 containing: PointCloud size: 2205
+                Branch at level 15 ...
+                 Leaf node at level  16 containing: PointCloud size: 3429
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 2176
+                  Leaf node at level  17 containing: PointCloud size: 3897
+                  Leaf node at level  17 containing: PointCloud size: 1845
+                  Leaf node at level  17 containing: PointCloud size: 5477
+                  Leaf node at level  17 containing: PointCloud size: 1351
+                  Leaf node at level  17 containing: PointCloud size: 1710
+                  Leaf node at level  17 containing: PointCloud size: 1287
+                  Leaf node at level  17 containing: PointCloud size: 2504
+                 Leaf node at level  16 containing: PointCloud size: 1261
+                 Leaf node at level  16 containing: PointCloud size: 6242
+                 Leaf node at level  16 containing: PointCloud size: 2043
+                 Leaf node at level  16 containing: PointCloud size: 5008
+                 Leaf node at level  16 containing: PointCloud size: 1002
+                 Leaf node at level  16 containing: PointCloud size: 3051
+                Leaf node at level  15 containing: PointCloud size: 493
+                Leaf node at level  15 containing: PointCloud size: 3367
+                Leaf node at level  15 containing: PointCloud size: 1326
+                Leaf node at level  15 containing: PointCloud size: 6613
+                Leaf node at level  15 containing: PointCloud size: 476
+                Leaf node at level  15 containing: PointCloud size: 1961
+               Branch at level 14 ...
+                Branch at level 15 ...
+                 Branch at level 16 ...
+                  Leaf node at level  17 containing: PointCloud size: 1969
+                  Leaf node at level  17 containing: PointCloud size: 532
+                  Leaf node at level  17 containing: PointCloud size: 4331
+                  Leaf node at level  17 containing: PointCloud size: 1193
+                  Leaf node at level  17 containing: PointCloud size: 975
+                  Leaf node at level  17 containing: PointCloud size: 399
+                  Leaf node at level  17 containing: PointCloud size: 1844
+                  Leaf node at level  17 containing: PointCloud size: 631
+                 Leaf node at level  16 containing: PointCloud size: 1342
+                 Leaf node at level  16 containing: PointCloud size: 8781
+                 Leaf node at level  16 containing: PointCloud size: 2156
+                 Leaf node at level  16 containing: PointCloud size: 2631
+                 Leaf node at level  16 containing: PointCloud size: 654
+                 Leaf node at level  16 containing: PointCloud size: 3470
+                 Leaf node at level  16 containing: PointCloud size: 1170
+                Leaf node at level  15 containing: PointCloud size: 1759
+                Leaf node at level  15 containing: PointCloud size: 9433
+                Leaf node at level  15 containing: PointCloud size: 2800
+                Leaf node at level  15 containing: PointCloud size: 4327
+                Leaf node at level  15 containing: PointCloud size: 701
+                Leaf node at level  15 containing: PointCloud size: 3872
+                Leaf node at level  15 containing: PointCloud size: 1071
+               Leaf node at level  14 containing: PointCloud size: 1534
+               Leaf node at level  14 containing: PointCloud size: 4780
+               Leaf node at level  14 containing: PointCloud size: 4072
+               Leaf node at level  14 containing: PointCloud size: 2662
+               Leaf node at level  14 containing: PointCloud size: 630
+               Leaf node at level  14 containing: PointCloud size: 1200
+             Branch at level 12 ...
+              Leaf node at level  13 containing: PointCloud size: 1674
+              Leaf node at level  13 containing: PointCloud size: 382
+              Leaf node at level  13 containing: PointCloud size: 3905
+              Leaf node at level  13 containing: PointCloud size: 292
+              Leaf node at level  13 containing: PointCloud size: 1641
+              Leaf node at level  13 containing: PointCloud size: 311
+              Leaf node at level  13 containing: PointCloud size: 2416
+              Leaf node at level  13 containing: PointCloud size: 208
+            Leaf node at level  11 containing: PointCloud size: 1506
+           Leaf node at level  10 containing: PointCloud size: 676
+           Branch at level 10 ...
+            Leaf node at level  11 containing: PointCloud size: 830
+            Leaf node at level  11 containing: PointCloud size: 287
+            Leaf node at level  11 containing: PointCloud size: 181
+            Leaf node at level  11 containing: PointCloud size: 91
+            Branch at level 11 ...
+             Leaf node at level  12 containing: PointCloud size: 1463
+             Leaf node at level  12 containing: PointCloud size: 1187
+             Leaf node at level  12 containing: PointCloud size: 746
+             Leaf node at level  12 containing: PointCloud size: 349
+             Leaf node at level  12 containing: PointCloud size: 3716
+             Leaf node at level  12 containing: PointCloud size: 1911
+             Leaf node at level  12 containing: PointCloud size: 657
+             Leaf node at level  12 containing: PointCloud size: 290
+            Leaf node at level  11 containing: PointCloud size: 970
+            Leaf node at level  11 containing: PointCloud size: 508
+            Leaf node at level  11 containing: PointCloud size: 209
+           Leaf node at level  10 containing: PointCloud size: 444
+           Branch at level 10 ...
+            Leaf node at level  11 containing: PointCloud size: 534
+            Leaf node at level  11 containing: PointCloud size: 367
+            Leaf node at level  11 containing: PointCloud size: 7739
+            Leaf node at level  11 containing: PointCloud size: 574
+            Leaf node at level  11 containing: PointCloud size: 268
+            Leaf node at level  11 containing: PointCloud size: 193
+            Leaf node at level  11 containing: PointCloud size: 402
+            Leaf node at level  11 containing: PointCloud size: 220
+           Leaf node at level  10 containing: PointCloud size: 779
+           Leaf node at level  10 containing: PointCloud size: 3197
+           Leaf node at level  10 containing: PointCloud size: 373
+          Leaf node at level  9 containing: PointCloud size: 1151
+          Leaf node at level  9 containing: PointCloud size: 966
+          Leaf node at level  9 containing: PointCloud size: 3053
+          Leaf node at level  9 containing: PointCloud size: 2790
+          Leaf node at level  9 containing: PointCloud size: 823
+          Leaf node at level  9 containing: PointCloud size: 233
+         Leaf node at level  8 containing: PointCloud size: 1249
+        Leaf node at level  7 containing: PointCloud size: 314
+        Leaf node at level  7 containing: PointCloud size: 174
+        Leaf node at level  7 containing: PointCloud size: 1238
+        Leaf node at level  7 containing: PointCloud size: 5091
+       Leaf node at level  6 containing: PointCloud size: 2066
+       Leaf node at level  6 containing: PointCloud size: 7473
+       Leaf node at level  6 containing: PointCloud size: 4764
+       Leaf node at level  6 containing: PointCloud size: 4670
+       Leaf node at level  6 containing: PointCloud size: 451
+       Leaf node at level  6 containing: PointCloud size: 6488
+       Leaf node at level  6 containing: PointCloud size: 3857
+      Leaf node at level  5 containing: PointCloud size: 4856
+      Leaf node at level  5 containing: PointCloud size: 5314
+      Leaf node at level  5 containing: PointCloud size: 928
+      Leaf node at level  5 containing: PointCloud size: 7010
+      Leaf node at level  5 containing: PointCloud size: 391
+     Leaf node at level  4 containing: PointCloud size: 3383
+     Branch at level 4 ...
+      Branch at level 5 ...
+       Leaf node at level  6 containing: PointCloud size: 1536
+       Leaf node at level  6 containing: PointCloud size: 3282
+       Leaf node at level  6 containing: PointCloud size: 53
+       Leaf node at level  6 containing: PointCloud size: 824
+       Leaf node at level  6 containing: PointCloud size: 94
+       Leaf node at level  6 containing: PointCloud size: 3901
+       Leaf node at level  6 containing: PointCloud size: 33
+       Leaf node at level  6 containing: PointCloud size: 6855
+      Leaf node at level  5 containing: PointCloud size: 3070
+      Leaf node at level  5 containing: PointCloud size: 239
+      Leaf node at level  5 containing: PointCloud size: 7779
+      Branch at level 5 ...
+       Leaf node at level  6 containing: PointCloud size: 343
+       Branch at level 6 ...
+        Leaf node at level  7 containing: PointCloud size: 7747
+        Leaf node at level  7 containing: PointCloud size: 2295
+        Leaf node at level  7 containing: PointCloud size: 380
+        Leaf node at level  7 containing: PointCloud size: 2072
+        Leaf node at level  7 containing: PointCloud size: 468
+        Leaf node at level  7 containing: PointCloud size: 51
+        Leaf node at level  7 containing: PointCloud size: 615
+        Leaf node at level  7 containing: PointCloud size: 3104
+       Leaf node at level  6 containing: PointCloud size: 131
+       Leaf node at level  6 containing: PointCloud size: 2108
+       Leaf node at level  6 containing: PointCloud size: 142
+       Leaf node at level  6 containing: PointCloud size: 817
+       Leaf node at level  6 containing: PointCloud size: 109
+       Leaf node at level  6 containing: PointCloud size: 1820
+      Leaf node at level  5 containing: PointCloud size: 3164
+      Leaf node at level  5 containing: PointCloud size: 653
+      Leaf node at level  5 containing: PointCloud size: 3447
+  Branch at level 1 ...
+   Branch at level 2 ...
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 2364
+     Leaf node at level  4 containing: PointCloud size: 417
+     Leaf node at level  4 containing: PointCloud size: 1128
+     Leaf node at level  4 containing: PointCloud size: 2151
+     Leaf node at level  4 containing: PointCloud size: 3469
+     Leaf node at level  4 containing: PointCloud size: 1037
+     Leaf node at level  4 containing: PointCloud size: 1097
+     Leaf node at level  4 containing: PointCloud size: 813
+    Leaf node at level  3 containing: PointCloud size: 3819
+    Leaf node at level  3 containing: PointCloud size: 5178
+    Leaf node at level  3 containing: PointCloud size: 2357
+    Leaf node at level  3 containing: PointCloud size: 3360
+    Leaf node at level  3 containing: PointCloud size: 4074
+    Leaf node at level  3 containing: PointCloud size: 1694
+    Leaf node at level  3 containing: PointCloud size: 7537
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 3505
+    Leaf node at level  3 containing: PointCloud size: 3895
+    Leaf node at level  3 containing: PointCloud size: 3885
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 232
+     Leaf node at level  4 containing: PointCloud size: 762
+     Leaf node at level  4 containing: PointCloud size: 262
+     Leaf node at level  4 containing: PointCloud size: 632
+     Leaf node at level  4 containing: PointCloud size: 768
+     Leaf node at level  4 containing: PointCloud size: 1462
+     Leaf node at level  4 containing: PointCloud size: 2723
+     Leaf node at level  4 containing: PointCloud size: 3498
+    Leaf node at level  3 containing: PointCloud size: 7996
+    Leaf node at level  3 containing: PointCloud size: 5390
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 1572
+     Leaf node at level  4 containing: PointCloud size: 4574
+     Leaf node at level  4 containing: PointCloud size: 8554
+     Leaf node at level  4 containing: PointCloud size: 729
+     Leaf node at level  4 containing: PointCloud size: 268
+     Leaf node at level  4 containing: PointCloud size: 1592
+     Leaf node at level  4 containing: PointCloud size: 1013
+     Leaf node at level  4 containing: PointCloud size: 260
+    Leaf node at level  3 containing: PointCloud size: 2518
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 5432
+    Leaf node at level  3 containing: PointCloud size: 9608
+    Leaf node at level  3 containing: PointCloud size: 2939
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 116
+     Leaf node at level  4 containing: PointCloud size: 210
+     Leaf node at level  4 containing: PointCloud size: 2077
+     Leaf node at level  4 containing: PointCloud size: 3091
+     Leaf node at level  4 containing: PointCloud size: 1348
+     Leaf node at level  4 containing: PointCloud size: 2085
+     Leaf node at level  4 containing: PointCloud size: 4206
+     Leaf node at level  4 containing: PointCloud size: 3228
+    Leaf node at level  3 containing: PointCloud size: 8263
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 3382
+     Leaf node at level  4 containing: PointCloud size: 1444
+     Leaf node at level  4 containing: PointCloud size: 3304
+     Leaf node at level  4 containing: PointCloud size: 980
+     Leaf node at level  4 containing: PointCloud size: 155
+     Leaf node at level  4 containing: PointCloud size: 476
+     Leaf node at level  4 containing: PointCloud size: 1207
+     Leaf node at level  4 containing: PointCloud size: 1103
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 3142
+     Leaf node at level  4 containing: PointCloud size: 5108
+     Leaf node at level  4 containing: PointCloud size: 7020
+     Leaf node at level  4 containing: PointCloud size: 640
+     Leaf node at level  4 containing: PointCloud size: 1102
+     Leaf node at level  4 containing: PointCloud size: 692
+     Leaf node at level  4 containing: PointCloud size: 105
+     Leaf node at level  4 containing: PointCloud size: 423
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 1042
+     Leaf node at level  4 containing: PointCloud size: 1007
+     Leaf node at level  4 containing: PointCloud size: 5875
+     Leaf node at level  4 containing: PointCloud size: 2448
+     Leaf node at level  4 containing: PointCloud size: 1727
+     Leaf node at level  4 containing: PointCloud size: 661
+     Leaf node at level  4 containing: PointCloud size: 1000
+     Leaf node at level  4 containing: PointCloud size: 302
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 9514
+    Leaf node at level  3 containing: PointCloud size: 3436
+    Leaf node at level  3 containing: PointCloud size: 2960
+    Leaf node at level  3 containing: PointCloud size: 2793
+    Leaf node at level  3 containing: PointCloud size: 2708
+    Leaf node at level  3 containing: PointCloud size: 2049
+    Leaf node at level  3 containing: PointCloud size: 6270
+    Leaf node at level  3 containing: PointCloud size: 3256
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1651
+    Leaf node at level  3 containing: PointCloud size: 2936
+    Leaf node at level  3 containing: PointCloud size: 888
+    Leaf node at level  3 containing: PointCloud size: 2339
+    Leaf node at level  3 containing: PointCloud size: 2246
+    Leaf node at level  3 containing: PointCloud size: 1970
+    Leaf node at level  3 containing: PointCloud size: 3314
+    Leaf node at level  3 containing: PointCloud size: 999
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1577
+    Leaf node at level  3 containing: PointCloud size: 5190
+    Leaf node at level  3 containing: PointCloud size: 2586
+    Leaf node at level  3 containing: PointCloud size: 4919
+    Leaf node at level  3 containing: PointCloud size: 2155
+    Leaf node at level  3 containing: PointCloud size: 4606
+    Leaf node at level  3 containing: PointCloud size: 1979
+    Leaf node at level  3 containing: PointCloud size: 3698
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 6601
+    Leaf node at level  3 containing: PointCloud size: 4200
+    Leaf node at level  3 containing: PointCloud size: 2379
+    Leaf node at level  3 containing: PointCloud size: 1290
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 592
+     Leaf node at level  4 containing: PointCloud size: 238
+     Leaf node at level  4 containing: PointCloud size: 4904
+     Leaf node at level  4 containing: PointCloud size: 3582
+     Leaf node at level  4 containing: PointCloud size: 1533
+     Leaf node at level  4 containing: PointCloud size: 195
+     Leaf node at level  4 containing: PointCloud size: 1895
+     Leaf node at level  4 containing: PointCloud size: 1115
+    Leaf node at level  3 containing: PointCloud size: 1717
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 1913
+     Leaf node at level  4 containing: PointCloud size: 807
+     Leaf node at level  4 containing: PointCloud size: 2162
+     Leaf node at level  4 containing: PointCloud size: 360
+     Leaf node at level  4 containing: PointCloud size: 3430
+     Leaf node at level  4 containing: PointCloud size: 358
+     Leaf node at level  4 containing: PointCloud size: 2580
+     Leaf node at level  4 containing: PointCloud size: 411
+    Leaf node at level  3 containing: PointCloud size: 1477
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 8345
+    Leaf node at level  3 containing: PointCloud size: 1655
+    Leaf node at level  3 containing: PointCloud size: 2352
+    Leaf node at level  3 containing: PointCloud size: 4483
+    Leaf node at level  3 containing: PointCloud size: 5645
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 2500
+     Leaf node at level  4 containing: PointCloud size: 1496
+     Leaf node at level  4 containing: PointCloud size: 2331
+     Leaf node at level  4 containing: PointCloud size: 1601
+     Leaf node at level  4 containing: PointCloud size: 717
+     Leaf node at level  4 containing: PointCloud size: 622
+     Leaf node at level  4 containing: PointCloud size: 985
+     Leaf node at level  4 containing: PointCloud size: 168
+    Leaf node at level  3 containing: PointCloud size: 2708
+    Leaf node at level  3 containing: PointCloud size: 2298
+  Branch at level 1 ...
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2897
+    Leaf node at level  3 containing: PointCloud size: 5438
+    Leaf node at level  3 containing: PointCloud size: 4098
+    Leaf node at level  3 containing: PointCloud size: 1967
+    Leaf node at level  3 containing: PointCloud size: 4807
+    Leaf node at level  3 containing: PointCloud size: 9825
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 257
+     Leaf node at level  4 containing: PointCloud size: 2624
+     Leaf node at level  4 containing: PointCloud size: 2867
+     Leaf node at level  4 containing: PointCloud size: 7041
+     Leaf node at level  4 containing: PointCloud size: 308
+     Leaf node at level  4 containing: PointCloud size: 159
+     Leaf node at level  4 containing: PointCloud size: 271
+     Leaf node at level  4 containing: PointCloud size: 423
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 4887
+     Leaf node at level  4 containing: PointCloud size: 1499
+     Leaf node at level  4 containing: PointCloud size: 1623
+     Leaf node at level  4 containing: PointCloud size: 529
+     Leaf node at level  4 containing: PointCloud size: 218
+     Leaf node at level  4 containing: PointCloud size: 1182
+     Leaf node at level  4 containing: PointCloud size: 318
+     Leaf node at level  4 containing: PointCloud size: 254
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 7760
+    Leaf node at level  3 containing: PointCloud size: 3762
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 185
+     Leaf node at level  4 containing: PointCloud size: 272
+     Leaf node at level  4 containing: PointCloud size: 556
+     Leaf node at level  4 containing: PointCloud size: 1639
+     Leaf node at level  4 containing: PointCloud size: 345
+     Leaf node at level  4 containing: PointCloud size: 3842
+     Leaf node at level  4 containing: PointCloud size: 1846
+     Leaf node at level  4 containing: PointCloud size: 8875
+    Leaf node at level  3 containing: PointCloud size: 6689
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 911
+     Leaf node at level  4 containing: PointCloud size: 9512
+     Leaf node at level  4 containing: PointCloud size: 1631
+     Leaf node at level  4 containing: PointCloud size: 7700
+     Leaf node at level  4 containing: PointCloud size: 4110
+     Leaf node at level  4 containing: PointCloud size: 1152
+     Leaf node at level  4 containing: PointCloud size: 1334
+     Leaf node at level  4 containing: PointCloud size: 590
+    Leaf node at level  3 containing: PointCloud size: 9587
+    Leaf node at level  3 containing: PointCloud size: 6087
+    Leaf node at level  3 containing: PointCloud size: 5923
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2942
+    Leaf node at level  3 containing: PointCloud size: 6922
+    Leaf node at level  3 containing: PointCloud size: 1941
+    Leaf node at level  3 containing: PointCloud size: 9954
+    Leaf node at level  3 containing: PointCloud size: 4279
+    Leaf node at level  3 containing: PointCloud size: 5841
+    Leaf node at level  3 containing: PointCloud size: 5187
+    Leaf node at level  3 containing: PointCloud size: 4187
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 6728
+    Leaf node at level  3 containing: PointCloud size: 4437
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 1184
+     Leaf node at level  4 containing: PointCloud size: 3636
+     Leaf node at level  4 containing: PointCloud size: 1528
+     Leaf node at level  4 containing: PointCloud size: 7252
+     Leaf node at level  4 containing: PointCloud size: 641
+     Leaf node at level  4 containing: PointCloud size: 675
+     Leaf node at level  4 containing: PointCloud size: 470
+     Leaf node at level  4 containing: PointCloud size: 1579
+    Leaf node at level  3 containing: PointCloud size: 3312
+    Leaf node at level  3 containing: PointCloud size: 3414
+    Leaf node at level  3 containing: PointCloud size: 1945
+    Leaf node at level  3 containing: PointCloud size: 3522
+    Leaf node at level  3 containing: PointCloud size: 2388
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 5352
+    Leaf node at level  3 containing: PointCloud size: 7750
+    Leaf node at level  3 containing: PointCloud size: 5393
+    Leaf node at level  3 containing: PointCloud size: 4016
+    Leaf node at level  3 containing: PointCloud size: 3813
+    Leaf node at level  3 containing: PointCloud size: 7262
+    Leaf node at level  3 containing: PointCloud size: 6141
+    Leaf node at level  3 containing: PointCloud size: 1794
+   Branch at level 2 ...
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 1141
+     Leaf node at level  4 containing: PointCloud size: 2879
+     Leaf node at level  4 containing: PointCloud size: 4750
+     Leaf node at level  4 containing: PointCloud size: 384
+     Leaf node at level  4 containing: PointCloud size: 1094
+     Leaf node at level  4 containing: PointCloud size: 696
+     Leaf node at level  4 containing: PointCloud size: 1169
+     Leaf node at level  4 containing: PointCloud size: 106
+    Leaf node at level  3 containing: PointCloud size: 5930
+    Leaf node at level  3 containing: PointCloud size: 5776
+    Leaf node at level  3 containing: PointCloud size: 1694
+    Leaf node at level  3 containing: PointCloud size: 1962
+    Leaf node at level  3 containing: PointCloud size: 5133
+    Leaf node at level  3 containing: PointCloud size: 1393
+    Leaf node at level  3 containing: PointCloud size: 600
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1846
+    Leaf node at level  3 containing: PointCloud size: 1481
+    Leaf node at level  3 containing: PointCloud size: 1925
+    Leaf node at level  3 containing: PointCloud size: 3601
+    Leaf node at level  3 containing: PointCloud size: 1929
+    Leaf node at level  3 containing: PointCloud size: 2517
+    Leaf node at level  3 containing: PointCloud size: 2250
+    Leaf node at level  3 containing: PointCloud size: 1497
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 3021
+    Leaf node at level  3 containing: PointCloud size: 2371
+    Leaf node at level  3 containing: PointCloud size: 5822
+    Leaf node at level  3 containing: PointCloud size: 2621
+    Leaf node at level  3 containing: PointCloud size: 2921
+    Leaf node at level  3 containing: PointCloud size: 1280
+    Leaf node at level  3 containing: PointCloud size: 6389
+    Leaf node at level  3 containing: PointCloud size: 2724
+  Branch at level 1 ...
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2642
+    Leaf node at level  3 containing: PointCloud size: 5131
+    Leaf node at level  3 containing: PointCloud size: 7078
+    Leaf node at level  3 containing: PointCloud size: 3622
+    Leaf node at level  3 containing: PointCloud size: 3561
+    Leaf node at level  3 containing: PointCloud size: 7078
+    Leaf node at level  3 containing: PointCloud size: 7272
+    Leaf node at level  3 containing: PointCloud size: 9631
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 3315
+    Leaf node at level  3 containing: PointCloud size: 5070
+    Leaf node at level  3 containing: PointCloud size: 1153
+    Leaf node at level  3 containing: PointCloud size: 2550
+    Leaf node at level  3 containing: PointCloud size: 2286
+    Leaf node at level  3 containing: PointCloud size: 3939
+    Leaf node at level  3 containing: PointCloud size: 6488
+    Leaf node at level  3 containing: PointCloud size: 3909
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 3090
+    Leaf node at level  3 containing: PointCloud size: 3668
+    Leaf node at level  3 containing: PointCloud size: 2886
+    Leaf node at level  3 containing: PointCloud size: 2518
+    Leaf node at level  3 containing: PointCloud size: 7927
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 167
+     Leaf node at level  4 containing: PointCloud size: 425
+     Leaf node at level  4 containing: PointCloud size: 116
+     Leaf node at level  4 containing: PointCloud size: 208
+     Branch at level 4 ...
+      Leaf node at level  5 containing: PointCloud size: 88
+      Leaf node at level  5 containing: PointCloud size: 573
+      Leaf node at level  5 containing: PointCloud size: 27
+      Leaf node at level  5 containing: PointCloud size: 14
+      Leaf node at level  5 containing: PointCloud size: 1401
+      Leaf node at level  5 containing: PointCloud size: 6633
+      Leaf node at level  5 containing: PointCloud size: 2169
+      Leaf node at level  5 containing: PointCloud size: 422
+     Leaf node at level  4 containing: PointCloud size: 3754
+     Leaf node at level  4 containing: PointCloud size: 690
+     Leaf node at level  4 containing: PointCloud size: 282
+    Leaf node at level  3 containing: PointCloud size: 4942
+    Leaf node at level  3 containing: PointCloud size: 4365
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 3654
+    Leaf node at level  3 containing: PointCloud size: 1942
+    Leaf node at level  3 containing: PointCloud size: 7551
+    Leaf node at level  3 containing: PointCloud size: 1479
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 819
+     Leaf node at level  4 containing: PointCloud size: 771
+     Leaf node at level  4 containing: PointCloud size: 205
+     Leaf node at level  4 containing: PointCloud size: 1444
+     Leaf node at level  4 containing: PointCloud size: 6661
+     Leaf node at level  4 containing: PointCloud size: 3315
+     Leaf node at level  4 containing: PointCloud size: 795
+     Leaf node at level  4 containing: PointCloud size: 1791
+    Leaf node at level  3 containing: PointCloud size: 9962
+    Leaf node at level  3 containing: PointCloud size: 7912
+    Leaf node at level  3 containing: PointCloud size: 6054
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 4977
+    Leaf node at level  3 containing: PointCloud size: 2521
+    Leaf node at level  3 containing: PointCloud size: 737
+    Leaf node at level  3 containing: PointCloud size: 2059
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 4257
+     Leaf node at level  4 containing: PointCloud size: 406
+     Leaf node at level  4 containing: PointCloud size: 1507
+     Leaf node at level  4 containing: PointCloud size: 913
+     Leaf node at level  4 containing: PointCloud size: 3613
+     Leaf node at level  4 containing: PointCloud size: 574
+     Leaf node at level  4 containing: PointCloud size: 2756
+     Leaf node at level  4 containing: PointCloud size: 1602
+    Leaf node at level  3 containing: PointCloud size: 2578
+    Leaf node at level  3 containing: PointCloud size: 893
+    Leaf node at level  3 containing: PointCloud size: 2172
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1553
+    Leaf node at level  3 containing: PointCloud size: 5758
+    Leaf node at level  3 containing: PointCloud size: 3908
+    Leaf node at level  3 containing: PointCloud size: 4976
+    Leaf node at level  3 containing: PointCloud size: 3628
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 2383
+     Leaf node at level  4 containing: PointCloud size: 795
+     Leaf node at level  4 containing: PointCloud size: 2394
+     Leaf node at level  4 containing: PointCloud size: 976
+     Leaf node at level  4 containing: PointCloud size: 1243
+     Leaf node at level  4 containing: PointCloud size: 271
+     Leaf node at level  4 containing: PointCloud size: 2622
+     Leaf node at level  4 containing: PointCloud size: 546
+    Leaf node at level  3 containing: PointCloud size: 2135
+    Leaf node at level  3 containing: PointCloud size: 3938
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2679
+    Leaf node at level  3 containing: PointCloud size: 5286
+    Leaf node at level  3 containing: PointCloud size: 4953
+    Leaf node at level  3 containing: PointCloud size: 2616
+    Leaf node at level  3 containing: PointCloud size: 2074
+    Leaf node at level  3 containing: PointCloud size: 2774
+    Leaf node at level  3 containing: PointCloud size: 2708
+    Leaf node at level  3 containing: PointCloud size: 2103
+   Branch at level 2 ...
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 6284
+     Leaf node at level  4 containing: PointCloud size: 2817
+     Leaf node at level  4 containing: PointCloud size: 359
+     Leaf node at level  4 containing: PointCloud size: 222
+     Leaf node at level  4 containing: PointCloud size: 357
+     Leaf node at level  4 containing: PointCloud size: 262
+     Leaf node at level  4 containing: PointCloud size: 595
+     Leaf node at level  4 containing: PointCloud size: 610
+    Leaf node at level  3 containing: PointCloud size: 1479
+    Leaf node at level  3 containing: PointCloud size: 1799
+    Leaf node at level  3 containing: PointCloud size: 1550
+    Leaf node at level  3 containing: PointCloud size: 1736
+    Leaf node at level  3 containing: PointCloud size: 1271
+    Leaf node at level  3 containing: PointCloud size: 2209
+    Leaf node at level  3 containing: PointCloud size: 3651
+  Branch at level 1 ...
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1065
+    Leaf node at level  3 containing: PointCloud size: 951
+    Leaf node at level  3 containing: PointCloud size: 1068
+    Leaf node at level  3 containing: PointCloud size: 6014
+    Leaf node at level  3 containing: PointCloud size: 1950
+    Leaf node at level  3 containing: PointCloud size: 2130
+    Leaf node at level  3 containing: PointCloud size: 1594
+    Leaf node at level  3 containing: PointCloud size: 1468
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2235
+    Leaf node at level  3 containing: PointCloud size: 4763
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 41
+     Leaf node at level  4 containing: PointCloud size: 332
+     Leaf node at level  4 containing: PointCloud size: 759
+     Leaf node at level  4 containing: PointCloud size: 8422
+     Leaf node at level  4 containing: PointCloud size: 83
+     Leaf node at level  4 containing: PointCloud size: 358
+     Leaf node at level  4 containing: PointCloud size: 616
+     Leaf node at level  4 containing: PointCloud size: 2730
+    Leaf node at level  3 containing: PointCloud size: 8757
+    Leaf node at level  3 containing: PointCloud size: 4201
+    Leaf node at level  3 containing: PointCloud size: 7709
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 332
+     Leaf node at level  4 containing: PointCloud size: 2415
+     Leaf node at level  4 containing: PointCloud size: 505
+     Leaf node at level  4 containing: PointCloud size: 4369
+     Leaf node at level  4 containing: PointCloud size: 322
+     Leaf node at level  4 containing: PointCloud size: 6333
+     Leaf node at level  4 containing: PointCloud size: 321
+     Leaf node at level  4 containing: PointCloud size: 978
+    Leaf node at level  3 containing: PointCloud size: 2282
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 3049
+    Leaf node at level  3 containing: PointCloud size: 1651
+    Leaf node at level  3 containing: PointCloud size: 4679
+    Leaf node at level  3 containing: PointCloud size: 1680
+    Leaf node at level  3 containing: PointCloud size: 3143
+    Leaf node at level  3 containing: PointCloud size: 3411
+    Leaf node at level  3 containing: PointCloud size: 2694
+    Leaf node at level  3 containing: PointCloud size: 2753
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2173
+    Leaf node at level  3 containing: PointCloud size: 8792
+    Leaf node at level  3 containing: PointCloud size: 2670
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 2188
+     Leaf node at level  4 containing: PointCloud size: 9289
+     Leaf node at level  4 containing: PointCloud size: 3293
+     Leaf node at level  4 containing: PointCloud size: 4347
+     Leaf node at level  4 containing: PointCloud size: 329
+     Leaf node at level  4 containing: PointCloud size: 361
+     Leaf node at level  4 containing: PointCloud size: 444
+     Leaf node at level  4 containing: PointCloud size: 844
+    Leaf node at level  3 containing: PointCloud size: 2752
+    Leaf node at level  3 containing: PointCloud size: 1896
+    Leaf node at level  3 containing: PointCloud size: 1728
+    Leaf node at level  3 containing: PointCloud size: 2216
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1081
+    Leaf node at level  3 containing: PointCloud size: 6396
+    Leaf node at level  3 containing: PointCloud size: 1561
+    Leaf node at level  3 containing: PointCloud size: 1484
+    Leaf node at level  3 containing: PointCloud size: 1021
+    Leaf node at level  3 containing: PointCloud size: 3284
+    Leaf node at level  3 containing: PointCloud size: 3695
+    Leaf node at level  3 containing: PointCloud size: 5265
+   Branch at level 2 ...
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 312
+     Leaf node at level  4 containing: PointCloud size: 2160
+     Leaf node at level  4 containing: PointCloud size: 2041
+     Leaf node at level  4 containing: PointCloud size: 1172
+     Leaf node at level  4 containing: PointCloud size: 284
+     Leaf node at level  4 containing: PointCloud size: 596
+     Leaf node at level  4 containing: PointCloud size: 5830
+     Leaf node at level  4 containing: PointCloud size: 703
+    Leaf node at level  3 containing: PointCloud size: 2166
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 303
+     Leaf node at level  4 containing: PointCloud size: 4189
+     Leaf node at level  4 containing: PointCloud size: 132
+     Leaf node at level  4 containing: PointCloud size: 1750
+     Leaf node at level  4 containing: PointCloud size: 646
+     Branch at level 4 ...
+      Branch at level 5 ...
+       Leaf node at level  6 containing: PointCloud size: 134
+       Leaf node at level  6 containing: PointCloud size: 672
+       Leaf node at level  6 containing: PointCloud size: 85
+       Leaf node at level  6 containing: PointCloud size: 694
+       Leaf node at level  6 containing: PointCloud size: 867
+       Leaf node at level  6 containing: PointCloud size: 4688
+       Leaf node at level  6 containing: PointCloud size: 384
+       Leaf node at level  6 containing: PointCloud size: 3759
+      Leaf node at level  5 containing: PointCloud size: 4609
+      Leaf node at level  5 containing: PointCloud size: 51
+      Leaf node at level  5 containing: PointCloud size: 124
+      Leaf node at level  5 containing: PointCloud size: 6215
+      Leaf node at level  5 containing: PointCloud size: 5194
+      Leaf node at level  5 containing: PointCloud size: 87
+      Leaf node at level  5 containing: PointCloud size: 348
+     Leaf node at level  4 containing: PointCloud size: 68
+     Leaf node at level  4 containing: PointCloud size: 535
+    Leaf node at level  3 containing: PointCloud size: 2296
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 162
+     Leaf node at level  4 containing: PointCloud size: 205
+     Leaf node at level  4 containing: PointCloud size: 4725
+     Leaf node at level  4 containing: PointCloud size: 783
+     Leaf node at level  4 containing: PointCloud size: 577
+     Leaf node at level  4 containing: PointCloud size: 263
+     Leaf node at level  4 containing: PointCloud size: 6723
+     Leaf node at level  4 containing: PointCloud size: 449
+    Leaf node at level  3 containing: PointCloud size: 6444
+    Leaf node at level  3 containing: PointCloud size: 6808
+    Leaf node at level  3 containing: PointCloud size: 6340
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1530
+    Leaf node at level  3 containing: PointCloud size: 2382
+    Leaf node at level  3 containing: PointCloud size: 3479
+    Leaf node at level  3 containing: PointCloud size: 2050
+    Leaf node at level  3 containing: PointCloud size: 2862
+    Leaf node at level  3 containing: PointCloud size: 3101
+    Leaf node at level  3 containing: PointCloud size: 2158
+    Leaf node at level  3 containing: PointCloud size: 2985
+   Branch at level 2 ...
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 316
+     Leaf node at level  4 containing: PointCloud size: 1014
+     Leaf node at level  4 containing: PointCloud size: 252
+     Leaf node at level  4 containing: PointCloud size: 2508
+     Leaf node at level  4 containing: PointCloud size: 64
+     Leaf node at level  4 containing: PointCloud size: 2277
+     Leaf node at level  4 containing: PointCloud size: 142
+     Leaf node at level  4 containing: PointCloud size: 3576
+    Leaf node at level  3 containing: PointCloud size: 5949
+    Leaf node at level  3 containing: PointCloud size: 5909
+    Leaf node at level  3 containing: PointCloud size: 4455
+    Leaf node at level  3 containing: PointCloud size: 2708
+    Leaf node at level  3 containing: PointCloud size: 5884
+    Leaf node at level  3 containing: PointCloud size: 9781
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 1816
+     Leaf node at level  4 containing: PointCloud size: 399
+     Leaf node at level  4 containing: PointCloud size: 2598
+     Leaf node at level  4 containing: PointCloud size: 3122
+     Leaf node at level  4 containing: PointCloud size: 867
+     Leaf node at level  4 containing: PointCloud size: 120
+     Leaf node at level  4 containing: PointCloud size: 712
+     Leaf node at level  4 containing: PointCloud size: 368
+  Branch at level 1 ...
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1107
+    Leaf node at level  3 containing: PointCloud size: 585
+    Leaf node at level  3 containing: PointCloud size: 1402
+    Leaf node at level  3 containing: PointCloud size: 699
+    Leaf node at level  3 containing: PointCloud size: 975
+    Leaf node at level  3 containing: PointCloud size: 1862
+    Leaf node at level  3 containing: PointCloud size: 1524
+    Leaf node at level  3 containing: PointCloud size: 2867
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1836
+    Leaf node at level  3 containing: PointCloud size: 1823
+    Leaf node at level  3 containing: PointCloud size: 2188
+    Leaf node at level  3 containing: PointCloud size: 1325
+    Leaf node at level  3 containing: PointCloud size: 1813
+    Leaf node at level  3 containing: PointCloud size: 1505
+    Leaf node at level  3 containing: PointCloud size: 926
+    Leaf node at level  3 containing: PointCloud size: 807
+   Branch at level 2 ...
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 201
+     Leaf node at level  4 containing: PointCloud size: 89
+     Leaf node at level  4 containing: PointCloud size: 4115
+     Leaf node at level  4 containing: PointCloud size: 2944
+     Leaf node at level  4 containing: PointCloud size: 147
+     Leaf node at level  4 containing: PointCloud size: 78
+     Leaf node at level  4 containing: PointCloud size: 3911
+     Leaf node at level  4 containing: PointCloud size: 6313
+    Leaf node at level  3 containing: PointCloud size: 3004
+    Leaf node at level  3 containing: PointCloud size: 4298
+    Leaf node at level  3 containing: PointCloud size: 2765
+    Leaf node at level  3 containing: PointCloud size: 2489
+    Leaf node at level  3 containing: PointCloud size: 4565
+    Leaf node at level  3 containing: PointCloud size: 1880
+    Leaf node at level  3 containing: PointCloud size: 1596
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2952
+    Leaf node at level  3 containing: PointCloud size: 2893
+    Leaf node at level  3 containing: PointCloud size: 5019
+    Leaf node at level  3 containing: PointCloud size: 3481
+    Leaf node at level  3 containing: PointCloud size: 2857
+    Leaf node at level  3 containing: PointCloud size: 3058
+    Leaf node at level  3 containing: PointCloud size: 1572
+    Leaf node at level  3 containing: PointCloud size: 5490
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2279
+    Leaf node at level  3 containing: PointCloud size: 614
+    Leaf node at level  3 containing: PointCloud size: 2750
+    Leaf node at level  3 containing: PointCloud size: 2316
+    Leaf node at level  3 containing: PointCloud size: 3469
+    Leaf node at level  3 containing: PointCloud size: 978
+    Leaf node at level  3 containing: PointCloud size: 4486
+    Leaf node at level  3 containing: PointCloud size: 1322
+   Leaf node at level  2 containing: PointCloud size: 9039
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 773
+    Leaf node at level  3 containing: PointCloud size: 2879
+    Leaf node at level  3 containing: PointCloud size: 1082
+    Leaf node at level  3 containing: PointCloud size: 829
+    Leaf node at level  3 containing: PointCloud size: 1422
+    Leaf node at level  3 containing: PointCloud size: 2263
+    Leaf node at level  3 containing: PointCloud size: 3289
+    Leaf node at level  3 containing: PointCloud size: 4528
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1891
+    Leaf node at level  3 containing: PointCloud size: 1729
+    Leaf node at level  3 containing: PointCloud size: 1721
+    Leaf node at level  3 containing: PointCloud size: 5859
+    Leaf node at level  3 containing: PointCloud size: 2444
+    Leaf node at level  3 containing: PointCloud size: 1702
+    Leaf node at level  3 containing: PointCloud size: 5115
+    Leaf node at level  3 containing: PointCloud size: 3034
+  Branch at level 1 ...
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 931
+    Leaf node at level  3 containing: PointCloud size: 6302
+    Leaf node at level  3 containing: PointCloud size: 1789
+    Leaf node at level  3 containing: PointCloud size: 1322
+    Leaf node at level  3 containing: PointCloud size: 1249
+    Leaf node at level  3 containing: PointCloud size: 5275
+    Leaf node at level  3 containing: PointCloud size: 1266
+    Leaf node at level  3 containing: PointCloud size: 3059
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2163
+    Leaf node at level  3 containing: PointCloud size: 4045
+    Leaf node at level  3 containing: PointCloud size: 1275
+    Leaf node at level  3 containing: PointCloud size: 692
+    Leaf node at level  3 containing: PointCloud size: 720
+    Leaf node at level  3 containing: PointCloud size: 2653
+    Leaf node at level  3 containing: PointCloud size: 1578
+    Leaf node at level  3 containing: PointCloud size: 2360
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2398
+    Leaf node at level  3 containing: PointCloud size: 1537
+    Leaf node at level  3 containing: PointCloud size: 1403
+    Leaf node at level  3 containing: PointCloud size: 783
+    Leaf node at level  3 containing: PointCloud size: 2135
+    Leaf node at level  3 containing: PointCloud size: 4009
+    Leaf node at level  3 containing: PointCloud size: 2193
+    Leaf node at level  3 containing: PointCloud size: 1867
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2750
+    Leaf node at level  3 containing: PointCloud size: 3976
+    Leaf node at level  3 containing: PointCloud size: 6825
+    Leaf node at level  3 containing: PointCloud size: 7671
+    Leaf node at level  3 containing: PointCloud size: 5588
+    Leaf node at level  3 containing: PointCloud size: 3665
+    Leaf node at level  3 containing: PointCloud size: 2983
+    Leaf node at level  3 containing: PointCloud size: 3296
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1925
+    Leaf node at level  3 containing: PointCloud size: 2420
+    Leaf node at level  3 containing: PointCloud size: 1058
+    Leaf node at level  3 containing: PointCloud size: 667
+    Leaf node at level  3 containing: PointCloud size: 1335
+    Leaf node at level  3 containing: PointCloud size: 5416
+    Leaf node at level  3 containing: PointCloud size: 2198
+    Leaf node at level  3 containing: PointCloud size: 2855
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 5235
+    Leaf node at level  3 containing: PointCloud size: 4122
+    Leaf node at level  3 containing: PointCloud size: 3479
+    Leaf node at level  3 containing: PointCloud size: 8747
+    Leaf node at level  3 containing: PointCloud size: 3421
+    Leaf node at level  3 containing: PointCloud size: 4664
+    Leaf node at level  3 containing: PointCloud size: 1928
+    Leaf node at level  3 containing: PointCloud size: 1224
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 3883
+    Leaf node at level  3 containing: PointCloud size: 4352
+    Leaf node at level  3 containing: PointCloud size: 4392
+    Leaf node at level  3 containing: PointCloud size: 8455
+    Leaf node at level  3 containing: PointCloud size: 3548
+    Leaf node at level  3 containing: PointCloud size: 3607
+    Leaf node at level  3 containing: PointCloud size: 483
+    Leaf node at level  3 containing: PointCloud size: 2244
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2097
+    Leaf node at level  3 containing: PointCloud size: 5329
+    Leaf node at level  3 containing: PointCloud size: 4881
+    Leaf node at level  3 containing: PointCloud size: 6342
+    Branch at level 3 ...
+     Leaf node at level  4 containing: PointCloud size: 308
+     Leaf node at level  4 containing: PointCloud size: 166
+     Leaf node at level  4 containing: PointCloud size: 213
+     Leaf node at level  4 containing: PointCloud size: 4525
+     Leaf node at level  4 containing: PointCloud size: 508
+     Leaf node at level  4 containing: PointCloud size: 235
+     Leaf node at level  4 containing: PointCloud size: 560
+     Leaf node at level  4 containing: PointCloud size: 5369
+    Leaf node at level  3 containing: PointCloud size: 9240
+    Leaf node at level  3 containing: PointCloud size: 6476
+    Leaf node at level  3 containing: PointCloud size: 6533
+  Branch at level 1 ...
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 5152
+    Leaf node at level  3 containing: PointCloud size: 1911
+    Leaf node at level  3 containing: PointCloud size: 1602
+    Leaf node at level  3 containing: PointCloud size: 3405
+    Leaf node at level  3 containing: PointCloud size: 1176
+    Leaf node at level  3 containing: PointCloud size: 935
+    Leaf node at level  3 containing: PointCloud size: 1557
+    Leaf node at level  3 containing: PointCloud size: 1915
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1688
+    Leaf node at level  3 containing: PointCloud size: 1899
+    Leaf node at level  3 containing: PointCloud size: 2661
+    Leaf node at level  3 containing: PointCloud size: 2233
+    Leaf node at level  3 containing: PointCloud size: 817
+    Leaf node at level  3 containing: PointCloud size: 1828
+    Leaf node at level  3 containing: PointCloud size: 2174
+    Leaf node at level  3 containing: PointCloud size: 2998
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 5813
+    Leaf node at level  3 containing: PointCloud size: 3169
+    Leaf node at level  3 containing: PointCloud size: 5001
+    Leaf node at level  3 containing: PointCloud size: 5370
+    Leaf node at level  3 containing: PointCloud size: 1287
+    Leaf node at level  3 containing: PointCloud size: 1019
+    Leaf node at level  3 containing: PointCloud size: 1779
+    Leaf node at level  3 containing: PointCloud size: 1554
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2564
+    Leaf node at level  3 containing: PointCloud size: 2643
+    Leaf node at level  3 containing: PointCloud size: 4327
+    Leaf node at level  3 containing: PointCloud size: 2928
+    Leaf node at level  3 containing: PointCloud size: 1321
+    Leaf node at level  3 containing: PointCloud size: 4266
+    Leaf node at level  3 containing: PointCloud size: 2186
+    Leaf node at level  3 containing: PointCloud size: 7176
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2299
+    Leaf node at level  3 containing: PointCloud size: 1073
+    Leaf node at level  3 containing: PointCloud size: 820
+    Leaf node at level  3 containing: PointCloud size: 1477
+    Leaf node at level  3 containing: PointCloud size: 2632
+    Leaf node at level  3 containing: PointCloud size: 5171
+    Leaf node at level  3 containing: PointCloud size: 1519
+    Leaf node at level  3 containing: PointCloud size: 1128
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1418
+    Leaf node at level  3 containing: PointCloud size: 2023
+    Leaf node at level  3 containing: PointCloud size: 2904
+    Leaf node at level  3 containing: PointCloud size: 3464
+    Leaf node at level  3 containing: PointCloud size: 4625
+    Leaf node at level  3 containing: PointCloud size: 1560
+    Leaf node at level  3 containing: PointCloud size: 6853
+    Leaf node at level  3 containing: PointCloud size: 4912
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 1307
+    Leaf node at level  3 containing: PointCloud size: 800
+    Leaf node at level  3 containing: PointCloud size: 893
+    Leaf node at level  3 containing: PointCloud size: 927
+    Leaf node at level  3 containing: PointCloud size: 3364
+    Leaf node at level  3 containing: PointCloud size: 1826
+    Leaf node at level  3 containing: PointCloud size: 1350
+    Leaf node at level  3 containing: PointCloud size: 1009
+   Branch at level 2 ...
+    Leaf node at level  3 containing: PointCloud size: 2090
+    Leaf node at level  3 containing: PointCloud size: 991
+    Leaf node at level  3 containing: PointCloud size: 1045
+    Leaf node at level  3 containing: PointCloud size: 3789
+    Leaf node at level  3 containing: PointCloud size: 2210
+    Leaf node at level  3 containing: PointCloud size: 1652
+    Leaf node at level  3 containing: PointCloud size: 3578
+    Leaf node at level  3 containing: PointCloud size: 1816
+Stopping display

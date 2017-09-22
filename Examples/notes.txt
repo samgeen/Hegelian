@@ -1,0 +1,4 @@
+NOTES ON RENDERING RGB IMAGES
+- We need to add switchable channels to the framebuffer
+- We need a new shader that processes these channels to make the Hubble images
+- Henney visualisation is called "cap-post"

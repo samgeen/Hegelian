@@ -1,0 +1,32 @@
+# HACK SKETCH OF WHAT IT SHOULD LOOK LIKE
+
+import pyglet
+import asvis
+from pyglet.gl import *
+
+# Set up window
+window = pyglet.window.Window()
+
+# Add stuff
+snap = asvis.Snapshot("myoutputblahblah")
+gas = Cloud(snapshot["gas"])
+
+# Make frame in window
+frame = Frame(window)
+frame.Add(gas)
+
+glClearColor(0.2, 0.4, 0.5, 1.0)
+
+@window.event
+def on_draw():
+	# You can draw whatever pyglet stuff here
+	# funnysprite.draw()
+	# serioussprite.draw()
+	# etc
+	# IMPORTANT !! FRAME DRAW MUST CHECK THAT CAMERA, USER INPUT IS SET UP, 
+	#              AND DO THAT IF NOT DONE ALREADY
+	frame.Draw()
+	# And you can do more stuff afterwards
+	
+
+pyglet.app.run()
