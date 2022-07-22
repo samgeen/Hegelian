@@ -113,7 +113,7 @@ class FrameBuffer(object):
             glBindFramebuffer(GL_FRAMEBUFFER, 0)
         
             status = glCheckFramebufferStatus(GL_FRAMEBUFFER)
-            print "FRAME BUFFER STATUS:", status
+            print("FRAME BUFFER STATUS:", status)
             
             # Set up the shaders
             if not self._preShader is None:

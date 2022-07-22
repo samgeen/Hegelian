@@ -11,14 +11,15 @@ from pyglet.gl import *
 import numpy as np
 
 import os, sys
-sys.path.append("../../")
-import asvis
+sys.path.append("../")
+import hegelian
 import random
 
-from asvis.Graphics.MeshDrawable import MeshDrawable
+from hegelian.Graphics.MeshDrawable import MeshDrawable
 
 # Set up window
-window = pyglet.window.Window(800,800)
+WINSIZE = 512
+window = pyglet.window.Window(WINSIZE,WINSIZE)
 
 # Test sprite
 serious = pyglet.sprite.Sprite(pyglet.image.load('serious.png'), x=50, y=50)
@@ -35,28 +36,38 @@ silly = pyglet.sprite.Sprite(pyglet.image.load('silly.png'), x=window.width-550,
 #drawable = MeshDrawable("/data/Simulations/MC_RT/cubes/3304_hires/",window,["rho","T","xHII"])
 #drawable = MeshDrawable("/data/Simulations/MC_RT/cubes/2701_fiducialsinks_single/",window,["rho","T","xHII"])
 drawable = MeshDrawable("C:|Users|samge|Data|Simulations|MC2701|cubes".replace("|",os.sep),window,["rho","T","xHII"])
+#drawable = MeshDrawable("/home/samgeen/Data/Simulations/MC2701/cubes",window,["rho","T","xHII"])
+
+FIRST = True
+frames = None
 
 # Make frame in window
-randFrames = False
-if randFrames:
-    frames = list()
-    for i in range(0,3):
-        size = random.randint(100,800)
-        x = random.randint(0,window.width-size)
-        y = random.randint(0,window.height-size)
-        Print("Making frame of length", size, "at ("+str(x)+", "+str(y)+")")
-        frame = asvis.Frame(window, x, y, size, size)
+def OnInit():
+    global frames
+    randFrames = False
+    if randFrames:
+        frames = list()
+        for i in range(0,3):
+            size = random.randint(100,800)
+            x = random.randint(0,window.width-size)
+            y = random.randint(0,window.height-size)
+            Print("Making frame of length", size, "at ("+str(x)+", "+str(y)+")")
+            frame = hegelian.Frame(window, x, y, size, size)
+            frame.Add(drawable)
+            frames.append(frame)
+    else:
+        frame = hegelian.Frame(window, 0,0,WINSIZE,WINSIZE)
         frame.Add(drawable)
-        frames.append(frame)
-else:
-    frame = asvis.Frame(window, 0,0,800,800)
-    frame.Add(drawable)
-    frames = [frame]
+        frames = [frame]
 
-glClearColor(0.0, 0.0, 0.0, 1.0)
+    glClearColor(0.0, 0.0, 0.0, 1.0)
 
 @window.event
 def on_draw():
+    global FIRST, frames
+    if FIRST:
+        OnInit()
+        FIRST = False
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
     # You can draw whatever pyglet stuff here
     # funnysprite.draw()
@@ -69,6 +80,9 @@ def on_draw():
         frame.Draw()
     # And you can do more stuff afterwards
     #silly.draw()
-    
 
+
+print("ooooooooooooooooo")
+print("RUNNING MAIN LOOP")
+print("ooooooooooooooooo")
 pyglet.app.run()

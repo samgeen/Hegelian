@@ -5,7 +5,7 @@ Created on Feb 27, 2014
 '''
 import sys
 
-from Frame import Frame
+from .Frame import Frame
 
 # Some useful functions
 def Print(text):

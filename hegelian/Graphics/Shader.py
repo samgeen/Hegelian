@@ -6,12 +6,14 @@ Created on Oct 23, 2012
 
 import os, sys
 import collections
+import ctypes
 
 '''
 PygletShader OBJECT TAKEN FROM 
 http://swiftcoder.wordpress.com/2008/12/19/simple-glsl-wrapper-for-pyglet/
 ADDED UNDERSCORES TO MAKE NOMENCLATURE EASIER
 USE Shader OBJECT FOR CLEANER INTERFACE; USES PygletShader TO WORK
+Uses https://github.com/leovt/leovt/blob/master/framebuffer.py to update to Python 3
 '''
 #
 # Copyright Tristam Macdonald 2008.
@@ -20,13 +22,18 @@ USE Shader OBJECT FOR CLEANER INTERFACE; USES PygletShader TO WORK
 # (see http://www.boost.org/LICENSE_1_0.txt)
 #
  
-from ctypes import *
+# This is sort of OK because everything begins with GL already
+# OpenGL predates a lot of modern coding practices huh
 from pyglet.gl import *
  
 class PygletShader:
     # vert, frag and geom take arrays of source strings
     # the arrays will be concattenated into one string by OpenGL
     def __init__(self, vert = [], frag = [], geom = []):
+        # TESTING - Check OpenGL context
+        #context = pyglet.gl.current_context
+        #config = context.config
+        #print("CONTEXT CONFIG", config)
         # create the program handle
         self.handle = glCreateProgram()
         # we are not linked yet
@@ -42,41 +49,54 @@ class PygletShader:
         # attempt to link the program
         self._link()
  
-    def _createShader(self, strings, type):
-        count = len(strings)
+    def _createShader(self, strings, shaderType):
         # if we have no source code, ignore this shader
-        if count < 1:
+        if len(strings) < 1:
             return
+        # Parse shader code into one string rather than a list of lines
+        shadercode = ""
+        for string in strings:
+            if "//" in string:
+                string = string[:string.find("//")]
+            shadercode += string+" "
+        # Encode string for Python 3
+        shadercode = shadercode.encode(encoding='UTF-8')
+        # Submit shader as one string rather than a set
+        count = 1 
  
+        print("SHADER", shadercode)
+
         # create the shader handle
-        shader = glCreateShader(type)
+        shader = glCreateShader(shaderType)
  
         # convert the source strings into a ctypes pointer-to-char array, and upload them
-        # this is deep, dark, dangerous black magick - don't try stuff like this at home!
-        src = (c_char_p * count)(*strings)
-        glShaderSource(shader, count, cast(pointer(src), POINTER(POINTER(c_char))), None)
+        # this is somewhat magic
+        srcBuffer = ctypes.create_string_buffer(shadercode)
+        buffer = ctypes.cast(ctypes.pointer(ctypes.pointer(srcBuffer)), ctypes.POINTER(ctypes.POINTER(ctypes.c_char)))
+        length = ctypes.c_int(len(shadercode) + 1)
+        glShaderSource(shader, count, buffer, ctypes.byref(length))
  
         # compile the shader
         glCompileShader(shader)
  
-        temp = c_int(0)
+        temp = ctypes.c_int(0)
         # retrieve the compile status
-        glGetShaderiv(shader, GL_COMPILE_STATUS, byref(temp))
+        glGetShaderiv(shader, GL_COMPILE_STATUS, ctypes.byref(temp))
  
         # if compilation failed, print the log
         if not temp:
             # retrieve the log length
-            glGetShaderiv(shader, GL_INFO_LOG_LENGTH, byref(temp))
+            glGetShaderiv(shader, GL_INFO_LOG_LENGTH, ctypes.byref(temp))
             # create a buffer for the log
-            buffer = create_string_buffer(temp.value)
+            buffer = ctypes.create_string_buffer(temp.value)
             # retrieve the log text
             glGetShaderInfoLog(shader, temp, None, buffer)
             # print the log to the console
-            if type == GL_FRAGMENT_SHADER:
-                print "(Fragment shader)"
-            if type == GL_VERTEX_SHADER:
-                print "(Vertex shader)"
-            print buffer.value
+            if shaderType == GL_FRAGMENT_SHADER:
+                print("(Fragment shader)")
+            if shaderType == GL_VERTEX_SHADER:
+                print("(Vertex shader)")
+            print("BUFFER VALUE", buffer.value)
         else:
             # all is well, so attach the shader to the program
             glAttachShader(self.handle, shader);
@@ -85,20 +105,20 @@ class PygletShader:
         # link the program
         glLinkProgram(self.handle)
  
-        temp = c_int(0)
+        temp = ctypes.c_int(0)
         # retrieve the link status
-        glGetProgramiv(self.handle, GL_LINK_STATUS, byref(temp))
+        glGetProgramiv(self.handle, GL_LINK_STATUS, ctypes.byref(temp))
  
         # if linking failed, print the log
         if not temp:
             #   retrieve the log length
-            glGetProgramiv(self.handle, GL_INFO_LOG_LENGTH, byref(temp))
+            glGetProgramiv(self.handle, GL_INFO_LOG_LENGTH, ctypes.byref(temp))
             # create a buffer for the log
-            buffer = create_string_buffer(temp.value)
+            buffer = ctypes.create_string_buffer(temp.value)
             # retrieve the log text
             glGetProgramInfoLog(self.handle, temp, None, buffer)
             # print the log to the console
-            print buffer.value
+            print("BUFFER VALUE", buffer.value)
         else:
             # all is well, so we are linked
             self.linked = True
@@ -115,8 +135,9 @@ class PygletShader:
     # upload a floating point uniform
     # this program must be currently bound
     def uniformf(self, name, *vals):
+        # Fix name to work with Python 3 string encoding
+        name = name.encode(encoding='UTF-8')
         # check there are 1-4 values
-        #print "LOC", glGetUniformLocation(self.handle, name), name
         if len(vals) in range(1, 5):
             # select the correct function
             { 1 : glUniform1f,
@@ -129,6 +150,8 @@ class PygletShader:
     # upload an integer uniform
     # this program must be currently bound
     def uniformi(self, name, *vals):
+        # Fix name to work with Python 3 string encoding
+        name = str.encode(name)
         # check there are 1-4 values
         if len(vals) in range(1, 5):
             # select the correct function
@@ -143,6 +166,8 @@ class PygletShader:
     # works with matrices stored as lists,
     # as well as euclid matrices
     def uniform_matrixf(self, name, mat):
+        # Fix name to work with Python 3 string encoding
+        name = str.encode(name)
         # obtian the uniform location
         loc = glGetUniformLocation(self.Handle, name)
         # uplaod the 4x4 floating point matrix
@@ -158,7 +183,7 @@ class Shader(object):
         vert: name of vertex   shader, where file is "Shaders/"+vert+".vert"
         NOTE: GEOMETRY SHADERS CURRENTLY NOT WORKING IF THAT'S WHAT YOU EXPECT TO HAPPEN
         '''
-        print "Name: ", frag
+        print("Name: ", frag)
         
         # If no vertex shader name included, assume it has the same name as frag
         if len(vert) == 0:
@@ -172,7 +197,7 @@ class Shader(object):
         vertname = here+"/Shaders/"+vert+".vert"
         frag = self._ReadShader(fragname)
         vert = self._ReadShader(vertname)
-        self._pshader = PygletShader(vert.split("/n"),frag.split("/n"))
+        self._pshader = PygletShader(vert.split("\n"),frag.split("\n"))
         self._attributes = dict()
         
         # Compile shaders
@@ -206,7 +231,7 @@ class Shader(object):
         Add an attribute
         '''
         loc = glGetAttribLocation( self._pshader.handle, name)
-        print loc, "LOC"
+        print(loc, "LOC")
         self._attributes[name] = loc
         
     def FindAttribute(self, name):
@@ -257,4 +282,3 @@ class Shader(object):
         data = f.read()
         f.close()
         return data
-    

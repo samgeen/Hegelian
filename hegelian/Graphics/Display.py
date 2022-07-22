@@ -18,7 +18,7 @@ from Stopwatch import Stopwatch
 
 import EventHandler as Events
 
-SIZE = 1024
+SIZE = 512
 WINSIZE = (SIZE,SIZE)
 WINX, WINY = WINSIZE
 

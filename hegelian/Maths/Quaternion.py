@@ -9,7 +9,7 @@ NOTE: Basic arithmetic code taken from "curvedinfinity" at
 
 import math, sys, os
 import numpy as np
-from Vect3 import Vect3
+from .Vect3 import Vect3
 
 class Quaternion(object):
     '''

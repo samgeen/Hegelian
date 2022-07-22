@@ -15,7 +15,7 @@ import numpy as np
 
 from pyglet.gl import *
 
-from Shader import Shader
+from .Shader import Shader
 
 from ctypes import *
 
@@ -43,7 +43,7 @@ class ReductionLevel(object):
                       GL_COLOR_ATTACHMENT0, GL_TEXTURE_2D, self._nextTexture,0)
         glDrawBuffer(GL_COLOR_ATTACHMENT0) 
         
-        glViewport(0, 0, size/2, size/2)
+        glViewport(0, 0, size//2, size//2)
         
         shader.AddFloat(self._dt, "dt")
         #glActiveTexture(0)

@@ -16,10 +16,10 @@ import numpy as np
 #from MouseHandler import MouseHandler
 import math
 
-from Maths.Vect3 import Vect3
-from Maths.Quaternion import Rotation
+from .Maths.Vect3 import Vect3
+from .Maths.Quaternion import Rotation
 
-import Events
+from . import Events
 
 class CameraController(object):
     def __init__(self, camera, window):

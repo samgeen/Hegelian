@@ -69,6 +69,10 @@ class Vect3(object):
         return Vect3(self._v*lhs)
     
     # Division by a scalar, or element-wise division with a vector
+    def __itruediv__(self, rhs):
+        return Vect3(self._v/rhs)
+    
+    # Divide equals by a scalar, or element-wise division with a vector
     def __div__(self, rhs):
         return Vect3(self._v/rhs)
     

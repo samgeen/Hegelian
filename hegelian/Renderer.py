@@ -15,11 +15,11 @@ import pyglet
 from pyglet.gl import *
 from pyglet.gl.glu import *
 
-import Events
+from . import Events
             
-from asvis.Graphics.FrameBuffer import FrameBuffer
-from asvis.Graphics.LogShader import LogShader
-from asvis.Graphics.SimplePhysShader import SimplePhysShader
+from .Graphics.FrameBuffer import FrameBuffer
+from .Graphics.LogShader import LogShader
+from .Graphics.SimplePhysShader import SimplePhysShader
 
 #from Graphics.ColourShader import ColourShader
 
@@ -29,7 +29,7 @@ SIZE = 1024
 WINSIZE = (SIZE,SIZE)
 WINX, WINY = WINSIZE
 
-import Camera
+from . import Camera
 
 class TextSprite(object):
     '''
@@ -89,7 +89,7 @@ class Renderer(object):
         '''
         Destructor (Clean up OpenGL)
         '''
-        print "Stopping display"
+        print("Stopping display")
         
     def Setup(self):
         '''
@@ -129,7 +129,7 @@ class Renderer(object):
         # Reeeeady?
         # Okay.
         # Hit it.
-        print "Starting display"
+        print("Starting display")
     
     def Draw(self, objects=[]):
         '''

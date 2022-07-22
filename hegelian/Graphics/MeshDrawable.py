@@ -14,7 +14,7 @@ import scipy.special
 
 import os, glob, array
 
-from asvis.Graphics.SimplePhysShader import SimplePhysShader
+from .SimplePhysShader import SimplePhysShader
 
 def MakeTextureFiles(folder,vars,ltex):
     '''
@@ -31,10 +31,10 @@ def MakeTextureFiles(folder,vars,ltex):
     # Find all the output files
     for var in vars:
         search = folder+os.sep+var+os.sep+"cube_"+var+"_*.npy"
-        print "Searching for", search
+        print("Searching for", search)
         files[var] = glob.glob(search)
         files[var].sort()
-    print "Found files", files
+    print("Found files", files)
     # Set up output array
     cube = ReadCube(files[var][0])
     length = int(cube.shape[0]**(1.0/3.0)+0.5)
@@ -49,11 +49,11 @@ def MakeTextureFiles(folder,vars,ltex):
         outfile = outfile.replace(vars[0],"TEX")
         outfile = outfile.replace(".npy",".tex")
         if not os.path.exists(outfile):
-            print "Writing to file", outfile
+            print("Writing to file", outfile)
             # Load the cubes
             for ivar in range(0,lvars):
                 texdata[itex+ivar] = ReadCube(files[vars[ivar]][iout])
-            print outfile
+            print(outfile)
             texdata.tofile(outfile)
         outfiles.append(outfile)
     return outfiles, length
@@ -86,14 +86,14 @@ class Cubes(object):
             self._mode = GL_RGBA
             ltex = 4
         else:
-            print "Number of variables not supported! Use 1 or 3"
+            print("Number of variables not supported! Use 1 or 3")
             raise ValueError
-        print "Setting up temporary files..."
+        print("Setting up temporary files...")
         self._outfiles, self._length = MakeTextureFiles(self._folder,self._hydrovars,ltex)
         # Put the cube texture into memory
         self.UpdateTexture()
         self._shader.Init()
-        print "Cube setup done"
+        print("Cube setup done")
         
     def Texture(self):
         return self._texture
@@ -102,8 +102,9 @@ class Cubes(object):
         # Set up cubes to use
         if self._toload:
             currfile = self._outfiles[self._icurr]
-            print "Loading file", currfile
+            print("Loading file", currfile)
             self._texdata = np.fromfile(currfile,dtype='float32')
+            print("TEXDATA MINMAX", self._texdata.min(),self._texdata.max())
             # Update the texture in graphics memory
             texsize = self._length
             c_float_p = ctypes.POINTER(ctypes.c_float)
@@ -111,7 +112,7 @@ class Cubes(object):
             glEnable(GL_TEXTURE_3D)
             glActiveTexture(GL_TEXTURE0)
             if self._first:
-                print "Making texture...", 
+                print("Making texture...", )
                 # Set up texture in graphics memory for the first time
                 gl.glGenTextures(1,self._texture)
                 glBindTexture( GL_TEXTURE_3D, self._texture )
@@ -126,7 +127,7 @@ class Cubes(object):
                     self._mode, GL_FLOAT,data_p)
                 self._first = False
             else:
-                print "Updating texture data...",
+                print("Updating texture data...",)
                 # Update the existing texture (subimages are faster than remaking the texture array each time)
                 glBindTexture( GL_TEXTURE_3D, self._texture )
                 glTexSubImage3D(GL_TEXTURE_3D, 0, 
@@ -134,7 +135,7 @@ class Cubes(object):
                     texsize, texsize, texsize,
                     self._mode, GL_FLOAT,data_p)
             # Tidy up
-            print "Done"
+            print("Done")
             glBindTexture( GL_TEXTURE_3D, 0 )
             self._toload = False
     
@@ -225,9 +226,6 @@ class Cubes(object):
         # Draw the quads
         self._shader.Begin()
         glBegin(GL_QUADS)
-        diff = 2.0*0.707 / 256.0
-        #for slice in np.arange(-0.707,0.707,diff):
-        #    self._PlotSlice(slice)
         self._PlotSlice(0.707)
         glEnd()
         self._shader.End()

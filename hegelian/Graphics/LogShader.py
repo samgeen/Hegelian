@@ -11,8 +11,8 @@ from pyglet.gl.glu import *
 import ctypes, array
 import numpy as np
 
-from ReductionShader import ReductionShader
-from Shader import Shader
+from .ReductionShader import ReductionShader
+from .Shader import Shader
     
 class LogShader(object):
     '''
@@ -48,7 +48,6 @@ class LogShader(object):
             self._reduction = ReductionShader(self._frameBuffer.Texture(), 
                                               size,
                                               ["ReduceMaxMin"])
-            
             self._prepared = True
         
     # Do this before the objects are rendered
@@ -71,6 +70,8 @@ class LogShader(object):
             else:
                 dmin = float(np.log(minval))
                 dmax = float(np.log(maxval))
+                if minval == 0.0:
+                    dmin = dmax - 7
                 try:
                     invrng = 1.0/(dmax-dmin)
                 except:

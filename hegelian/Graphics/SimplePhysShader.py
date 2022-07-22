@@ -11,7 +11,7 @@ from pyglet.gl.glu import *
 import ctypes, array
 import numpy as np
 
-from Shader import Shader
+from .Shader import Shader
     
 class SimplePhysShader(object):
     '''

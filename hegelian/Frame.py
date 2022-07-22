@@ -7,12 +7,12 @@ Created on 24 Apr 2013
 import abc
 import pyglet
 from pyglet.gl import * # it already has the gl prefix so OK whatevs
-import Events
+from . import Events
 
 import pyglet.window.mouse as mouse
 import pyglet.window.key as key
-import Camera
-import Renderer
+from . import Camera
+from . import Renderer
          
 class AbstractFrame(object):
     '''

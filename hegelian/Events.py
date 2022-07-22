@@ -33,7 +33,7 @@ class UserInputHandler(object):
         
     def __del__(self):
         # TODO: CHECK THAT THIS DOESN't MAKE BAD THINGS HAPPEN IF IT'S NOT DELETED IMMEDIATELY
-        dispatcher.pop_handlers(self)
+        dispatcher.pop_handlers()
     
     def on_mouse_press(self, x, y, button, modifiers):
         press = {"pos": (x,y), "button":button, "mod": modifiers, "pressed":True}
